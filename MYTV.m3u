@@ -5,6 +5,8 @@
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 group-title="Sports" group-logo="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Premier League 
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#EXTINF:-1 group-title="Sports" group-logo="" tvg-logo="http://tv.bdiptv.net/assets/images/premer%20league.jpg",Premier League
+http://103.89.248.14:8082/SUPERSPORTS-PREMIER-LEAGUE/tracks-v1/index.fmp4.m3u8?token=c9983001c9319bda828841863955322ae2126ccb-08506cc2fc8b162a4583db649e98cdb5-1759700239-1759689439
 
 #EXTINF:-1 group-title="SPORTS;BOLA" tvg-id="VSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/V_Sport_Football_Logo.png",Vsport
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=312137&extension=m3u8
@@ -13,6 +15,8 @@ http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=312137&extens
 
 #EXTINF:-1 group-title="Sports" group-logo="" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2021/06/26/60d9761924e40.png",Laliga Fancode
 http://103.89.248.14:8082/LIVE-FOOTBALL-1/index.fmp4.m3u8?token=9b292032daaf5fe5bc4ca6fc7477bbba9ee53984-3d422de16355f9baf12e47ee049a8633-1759699997-1759689197
+#EXTINF:-1 group-title="Sports" group-logo="" tvg-logo="http://tv.bdiptv.net/assets/images/laliga.jpg",Laliga Supersport 
+http://103.89.248.14:8082/SUPERSPORTS-LALIGA/tracks-a1/index.fmp4.m3u8?token=31eabfcb7e900e58166a588c04f74b058d1b1fe4-9880d1426492612cdcc2de920b5dcee6-1759700177-1759689377
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
