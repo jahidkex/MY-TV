@@ -1,4 +1,85 @@
 #EXTM3U 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", Sony 12
+https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=2ce2e7d0af813fd26c6fe0b59201ced5:1416f69da90f62735a6521aae461dd74
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", amzonhindi
+https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e51d0a028b213b7df472b5f39dc15a8f:bc00a08336fa155814a2e7f47cd42a03
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", amzoneng
+https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/hxmndltwen/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", shoq
+https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", criclifemax
+https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", criclife
+https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", cricbuzz1
+https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", cricbuzz2
+https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", astrocricket
+https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+
+
+
+
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
