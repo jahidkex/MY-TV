@@ -15,91 +15,102 @@ https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live
 #EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", Live SPorts
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500 
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", Live SPorts
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
+
+
+#EXTINF:-1 group-title="SPORT", POLSAT SPORT 1 HD
+http://4.team.ga:80/ch932/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW4xhEF1CwgGKWMpZCblIwmhAM6h6-3ixJg5_3vSCBKyd
+#EXTINF:-1 group-title="SPORT", POLSAT SPORT 2 HD
+http://4.team.ga:80/ch933/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW1TQKkbCgtPpfrfEko94M9NyGNc3jvTAO84USjuW5Ebv
+#EXTINF:-1 group-title="SPORT", POLSAT SPORT 3 HD
+http://4.team.ga:80/ch2489/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW7v4_aiEAwFZeHsH1M55vcg8nOwETVPlA-imsl2CznUR
+#EXTINF:-1 group-title="SPORT", POLSAT SPORT PREMIUM 1 HD
+http://4.team.ga:80/ch934/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW5txrU_myCNil4h9_yFKtB9PapkLbvZfD471iQPwmnDn
+#EXTINF:-1 group-title="SPORT", POLSAT SPORT PREMIUM 2 HD
+http://4.team.ga:80/ch935/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW26B8d839HsDT37bdAqmqlMKLAn7X-rXHbuSuCCXc0_Y
+#EXTINF:-1 group-title="SPORT", PL: EUROSPORT 1 HD
+http://4.team.ga:80/ch891/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8GQ_-tWUEe-jbPsumnYwIMRhd4_dFKttC2kMr3bEdf2
+#EXTINF:-1 group-title="SPORT", PL: EUROSPORT 2 HD
+http://4.team.ga:80/ch892/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW6C7eF4zOsEgl9KMoUjsM9d1OJJCz94hcSgp88Tek6aE
+#EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 1 HD
+http://4.team.ga:80/ch887/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW3a_oOsWkXKPwQFI5ErNDlfR0lrUMbbmNPBozEKPTqDY
+#EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 2 HD
+http://4.team.ga:80/ch888/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW34rz2GrrN_K1KEG34ABV5R-PcVVKqqZtAvTnr-zqVbu
+#EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 3 HD
+http://4.team.ga:80/ch889/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW87Q3fZgCAzemk3-iVvhGjq3hcEhJU5JDW9qDifrTk2T
+#EXTINF:-1 group-title="SPORT", ELEVEN SPORTS 4 HD
+http://4.team.ga:80/ch890/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYWy5lJVIHLnKMdS9Fz48RuWKOPw19TK8IlQe9ZvEm3vEx
+#EXTINF:-1 group-title="SPORT", CANAL+ SPORT HD
+http://4.team.ga:80/ch872/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW1c_8xKnTDTHgz6sv2rbuuUyI8JNso3gL5717WvxaXxQ
+#EXTINF:-1 group-title="SPORT", CANAL+ SPORT 2 HD
+http://4.team.ga:80/ch873/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8qYxI2csEPa5HFLY4QhhWf_KtvTxmHNIsuNlkCmQDjL
+#EXTINF:-1 group-title="SPORT", CANAL+ SPORT 3 HD
+http://4.team.ga:80/ch874/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW3qekIwTZwTKcuvt_LUPOTOdouB3RXgPGkwfxPwunmd8
+#EXTINF:-1 group-title="SPORT", CANAL+ SPORT 4 HD
+http://4.team.ga:80/ch875/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW_zZvUbjumWRreBKJKpu5mNakublYz_hP04xJE8PQH1l
+#EXTINF:-1 group-title="SPORT", CANAL+ SPORT 5 HD
+http://4.team.ga:80/ch920/mono.m3u8?token=ajonas.dBuBTtgm2TiHPzOguiYYW8VaiSXRKYLcfOulYbjOmuAABU4_D4VruyWbY2jIB1Q_
+#EXTINF:-1,CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
 
 
 
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500 
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", Live SPorts
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", Sony 12
-https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=2ce2e7d0af813fd26c6fe0b59201ced5:1416f69da90f62735a6521aae461dd74
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", amzonhindi
-https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/jr0zvtazlv/out/v1/6bae9634f7594a738530656284177423/cenc.mpd
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=e51d0a028b213b7df472b5f39dc15a8f:bc00a08336fa155814a2e7f47cd42a03
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", amzoneng
-https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/hxmndltwen/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a6dfc4f17d70d8d07639659193f03b25:893eacfabe386144b81733d622a7ad17
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", shoq
-https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=ad59b720bd4b44d063686212b99484b5:e1744990edf98acc729c0773a3766583
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", criclifemax
-https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", criclife
-https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", cricbuzz1
-https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
+#EXTINF:-1 provider="Oneplay" tvg-chno="26" tvg-name="Oneplay Sport 1" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/6a99e5ac-151b-4d5f-83f3-6c1032f7daab" catchup-days="7" catchup="shift", Oneplay Sport 1
+http://46.36.37.186:8082/play/Oneplay%20Sport%201.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="27" tvg-name="Oneplay Sport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/879dd8e2-31bb-4b89-90e5-b4313a8bd4bb" catchup-days="7" catchup="shift", Oneplay Sport 2
+http://46.36.37.186:8082/play/Oneplay%20Sport%202.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="28" tvg-name="Oneplay Sport 3" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/ec12ed2f-278e-4496-9070-717c444f75d1" catchup-days="7" catchup="shift", Oneplay Sport 3
+http://46.36.37.186:8082/play/Oneplay%20Sport%203.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="29" tvg-name="Oneplay Sport 4" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/1a2169d8-fea1-42ae-908a-99bec41d4789" catchup-days="7" catchup="shift", Oneplay Sport 4
+http://46.36.37.186:8082/play/Oneplay%20Sport%204.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="30" tvg-name="Nova Sport 1 HD" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/c1a06c89-62d1-4946-b15f-c61a8b33bba8" catchup-days="7" catchup="shift", Nova Sport 1 HD
+http://46.36.37.186:8082/play/Nova%20Sport%201%20HD.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="31" tvg-name="Nova Sport 2 HD" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/8b998bed-beb9-40da-867d-27eb9c1d71f6" catchup-days="7" catchup="shift", Nova Sport 2 HD
+http://46.36.37.186:8082/play/Nova%20Sport%202%20HD.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="32" tvg-name="Nova Sport 3 HD" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/a817285a-2e46-44e7-9862-0200961d6f12" catchup-days="7" catchup="shift", Nova Sport 3 HD
+http://46.36.37.186:8082/play/Nova%20Sport%203%20HD.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="33" tvg-name="Nova Sport 4 HD" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/460f598c-7106-45e8-8c96-1e97f260e128" catchup-days="7" catchup="shift", Nova Sport 4 HD
+http://46.36.37.186:8082/play/Nova%20Sport%204%20HD.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="34" tvg-name="Nova Sport 5 HD" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/7d71aa9b-8ae6-4faf-b9da-4e40c1979f0b" catchup-days="7" catchup="shift", Nova Sport 5 HD
+http://46.36.37.186:8082/play/Nova%20Sport%205%20HD.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="35" tvg-name="Nova Sport 6 HD" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/bc050f76-2c12-4203-ba29-d639e1e125e8" catchup-days="7" catchup="shift", Nova Sport 6 HD
+http://46.36.37.186:8082/play/Nova%20Sport%206%20HD.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="36" tvg-name="Premier Sport 1" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/3ec20b92-b311-4a6c-bc6d-ccbc54145600" catchup-days="7" catchup="shift", Premier Sport 1
+http://46.36.37.186:8082/play/Premier%20Sport%201.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="37" tvg-name="Premier Sport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/33bfa0fb-830c-4f38-9d64-e3f48e09f9ab" catchup-days="7" catchup="shift", Premier Sport 2
+http://46.36.37.186:8082/play/Premier%20Sport%202.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="38" tvg-name="Premier Sport 3" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/05a462d8-b796-45cb-a4da-6c67fa643ac9" catchup-days="7" catchup="shift", Premier Sport 3
+http://46.36.37.186:8082/play/Premier%20Sport%203.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="39" tvg-name="ČT Sport HD" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/087dfbfe-d47f-4454-b862-a4cf603b9b36" catchup-days="7" catchup="shift", ČT Sport HD
+http://46.36.37.186:8082/play/%C4%8CT%20Sport%20HD.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="40" tvg-name="Eurosport HD" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/da7cc1ef-9b02-451a-8114-989922588090" catchup-days="7" catchup="shift", Eurosport HD
+http://46.36.37.186:8082/play/Eurosport%20HD.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="41" tvg-name="Eurosport 2 HD" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/8526343d-8ff6-4d16-a333-5484397c3111" catchup-days="7" catchup="shift", Eurosport 2 HD
+http://46.36.37.186:8082/play/Eurosport%202%20HD.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="42" tvg-name="CANAL+ Sport" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/2ad30d55-d7cc-4348-991d-3c8417c1d617" catchup-days="7" catchup="shift", CANAL+ Sport
+http://46.36.37.186:8082/play/CANAL%2B%20Sport.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="43" tvg-name="CANAL+ Sport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/b89946c0-cace-41f7-9f46-bba9350d0cb5" catchup-days="7" catchup="shift", CANAL+ Sport 2
+http://46.36.37.186:8082/play/CANAL%2B%20Sport%202.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="44" tvg-name="CANAL+ Sport 3" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/7e27b9aa-a9d6-4167-9e61-483e522dbcec" catchup-days="7" catchup="shift", CANAL+ Sport 3
+http://46.36.37.186:8082/play/CANAL%2B%20Sport%203.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="45" tvg-name="CANAL+ Sport 4" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/0b6d7319-b3af-4929-b67a-de771789170f" catchup-days="7" catchup="shift", CANAL+ Sport 4
+http://46.36.37.186:8082/play/CANAL%2B%20Sport%204.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="46" tvg-name="CANAL+ Sport 5" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/eb7aca5c-0d4f-4e01-9601-cee503531970" catchup-days="7" catchup="shift", CANAL+ Sport 5
+http://46.36.37.186:8082/play/CANAL%2B%20Sport%205.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="47" tvg-name="CANAL+ Sport 6" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/72720330-28f9-47c7-bb1b-609f2c01b662" catchup-days="7" catchup="shift", CANAL+ Sport 6
+http://46.36.37.186:8082/play/CANAL%2B%20Sport%206.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="48" tvg-name="CANAL+ Sport 7" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/dd021cb4-7494-47ba-a0b9-6f26b987965a" catchup-days="7" catchup="shift", CANAL+ Sport 7
+http://46.36.37.186:8082/play/CANAL%2B%20Sport%207.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="49" tvg-name="CANAL+ Sport 8" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/d5ee0e92-f97c-4683-8d87-d12f9c9423ae" catchup-days="7" catchup="shift", CANAL+ Sport 8
+http://46.36.37.186:8082/play/CANAL%2B%20Sport%208.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="50" tvg-name="Golf Channel HD" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/9786031a-e309-4d67-8b57-e87eb64d6fb5" catchup-days="7" catchup="shift", Golf Channel HD
+http://46.36.37.186:8082/play/Golf%20Channel%20HD.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="51" tvg-name="Arena Sport 1" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/aab81810-1fa4-4732-825c-1ba965289d23" catchup-days="7" catchup="shift", Arena Sport 1
+http://46.36.37.186:8082/play/Arena%20Sport%201.m3u8
+#EXTINF:-1 provider="Oneplay" tvg-chno="52" tvg-name="Arena Sport 2" tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r480x320n/27abdac0-4679-48d2-bb8d-d23d8ce2a094" catchup-days="7" catchup="shift", Arena Sport 2
+http://46.36.37.186:8082/play/Arena%20Sport%202.m3u8
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="" group-logo="" group-title="SPORTS", cricbuzz2
-https://cors-anywhere.creativeclaritycreations.com/https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
