@@ -44,3 +44,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%205%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQyLnRz
 https://7pal.short.gy/tsn5ca
+
+
+#EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="" group-title="NITRO",TUDN 🇲🇽
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
+
