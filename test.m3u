@@ -1,9 +1,9 @@
 #EXTM3U
 
-EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="" group-title="SPORTS", TSports 🇧🇩
+EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://image.tsports.com/images/test/mobile_logo/1705486440-Live-2.jpg" group-title="SPORTS", TSports 🇧🇩
 http://103.151.61.12/T-Sports.kutta/video.m3u8
 
-
+EXTINF:-1 tvg-id="Tsports" tvg-logo="https://image.tsports.com/images/test/mobile_logo/1705486440-Live-2.jpg" group-title="SPORTS", TSports 🇧🇩
 http://198.195.239.50:8095/T-spo_rts-hoichoi24/video.m3u8
 
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS", TSN 1 🇨🇦
