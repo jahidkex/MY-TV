@@ -1,56 +1,40 @@
 #EXTM3U
-
-EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://image.tsports.com/images/test/mobile_logo/1705486440-Live-2.jpg" group-title="SPORTS", TSports 🇧🇩
-http://103.151.61.12/T-Sports.kutta/video.m3u8
-
-EXTINF:-1 tvg-id="Tsports" tvg-logo="https://image.tsports.com/images/test/mobile_logo/1705486440-Live-2.jpg" group-title="SPORTS", TSports 🇧🇩
-http://198.195.239.50:8095/T-spo_rts-hoichoi24/video.m3u8
-
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS", TSN 1 🇨🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%201%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ2LnRz
-https://7pal.short.gy/tsn1ca
-
-#EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="SPORTS", TSN 2 🇨🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%202%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ1LnRz
-https://7pal.short.gy/tsn2ca
-
-#EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn3.png" group-title="SPORTS", TSN 3 🇨🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%203%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQ0LnRz
-https://7pal.short.gy/tsn3ca
-
-#EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn4.png" group-title="SPORTS", TSN 4 🇨🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%204%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQzLnRz
-https://7pal.short.gy/tsn4ca
-
-#EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn5.png" group-title="SPORTS", TSN 5 🇨🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
-https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=TSN%205%20UHD&src=aHR0cHM6Ly9yZXN0cmVhbS1saXZlLnJlYWxpcHR2LnRvOjQ0My9saXZlL0FMRVgvc2c1bmcyNWlrZi8zMTQyLnRz
-https://7pal.short.gy/tsn5ca
-
+#EXT-X-SESSION-DATA:DATA-ID="NODE",VALUE="fa723fc1b171.9d777d9c8578.j.cloudfront.hls.live-video.net"
+#EXT-X-SESSION-DATA:DATA-ID="MANIFEST-NODE-TYPE",VALUE="weaver_cluster"
+#EXT-X-SESSION-DATA:DATA-ID="MANIFEST-NODE",VALUE="elastic-weaver.use22"
+#EXT-X-SESSION-DATA:DATA-ID="SUPPRESS",VALUE="true"
+#EXT-X-SESSION-DATA:DATA-ID="SERVER-TIME",VALUE="1781387138.00"
+#EXT-X-SESSION-DATA:DATA-ID="TRANSCODESTACK",VALUE="2025-Transcode-ELT-V1"
+#EXT-X-SESSION-DATA:DATA-ID="USER-IP",VALUE="172.71.203.101"
+#EXT-X-SESSION-DATA:DATA-ID="SERVING-ID",VALUE="11c289c691134742aaf58df4880f4f1f"
+#EXT-X-SESSION-DATA:DATA-ID="CLUSTER",VALUE="cloudfront_prod_use12"
+#EXT-X-SESSION-DATA:DATA-ID="ABS",VALUE="true"
+#EXT-X-SESSION-DATA:DATA-ID="VIDEO-SESSION-ID",VALUE="2001257598953527079"
+#EXT-X-SESSION-DATA:DATA-ID="BROADCAST-ID",VALUE="319086446432"
+#EXT-X-SESSION-DATA:DATA-ID="STREAM-TIME",VALUE="13253.998618"
+#EXT-X-SESSION-DATA:DATA-ID="FUTURE",VALUE="true"
+#EXT-X-SESSION-DATA:DATA-ID="USER-COUNTRY",VALUE="US"
+#EXT-X-SESSION-DATA:DATA-ID="MANIFEST-CLUSTER",VALUE="use22"
+#EXT-X-SESSION-DATA:DATA-ID="ORIGIN",VALUE="use12"
+#EXT-X-SESSION-DATA:DATA-ID="C",VALUE="aHR0cHM6Ly92aWRlby1lZGdlLTQ3MTI3YS5zamMwNS5obHMubGl2ZS12aWRlby5uZXQvdjEvc2VnbWVudC9DbUExZG0zVm9uNU9nTkRhSTRweTlXSlJLQXRQRFpFR2gzX0E4N3J2RnpuX3AxeWlaS1psU3Q2b29SZ0Q0RlAtS0ZoSUVzZW9jOWRJbWswY2hpM0lHN1VDWGlXbkxlR0k2VmlJeDhOd3BFZlN1QkdhX0lFbDJJVXM3WkJsbHBKbDIwX1dtbE1IRDI5X01kTVdFUi1qZDFMV041MUVwZENaOFJSR0JhX2NSQVdwbTJXWWNKenY0ZnRPV0tYcDRTRkxyZFM1ZWJBcl9xdnJzZmVsR1h6amhXT0JnVzNzZzhRTnpsWWFSOWhHcy1tOFFWMGlVQW12YW5JUEtrTDYxck12bVd0ZDAyNWpjZm5ucF9mcm5rOFJxMXdRMmZHWl9NVmlHX2tuQ2xxeWxVSXNzTjJ4bF9TTFR6dUE3dUlEOUVoVnNueHVEcGFDYmN2akZJNWpPYUU4S05oRFNnRk5wby1oWGxydVZjd2s5RThweTZ0b1V1YVFQVnJZSEh1QzV5Y1kxdEwwRjY0UEYya09xVndfQ1RMdmRrczdQNjNnWG9KM3dlbkE4cW00d3RCTmNBZkxuRkxPQkVta3U0T19qeW1fcmEyek4xQ3htMUxBWkdqVlZWWHBwSmFZREJKOWtxSHA0N2tBRDVjNjBtUjlGOTZIN184cEh6ak9KbUN5Snd4WC1Jc2RvRllqZjdEd3F3bWZ6WExKbnVZUDNrMTR1bVVPdUFyWTI5eGFwejNmTHFES3lLenVsb3FPRmtDM0ZiRkM5YWxkUFBGWnVMTk5Dd25tR3pVN1diVm5SZTZzNm91SzVSeVdmem0tTGczSEI2VzNHOGhfdXoxd1B0TndHQWdoenhGYkVFdFVVb3E2N3IycDFVQnM4MXQtU2hTeEs4aWJaRFNrQWVObG5lUXRIS3FyeF9Xd1Z5aHJ4dlR5Y0IwOWNfZHV4UEt2dzh0eTlfSlRQdnI5ZGlxemliXzhydUVVUzgwWmtQNmhpcFdWWHRzU3ZTRzZfUHhrLnRz"
+#EXT-X-SESSION-DATA:DATA-ID="E",VALUE="aHR0cHM6Ly92aWRlby1lZGdlLTQ3MTI3YS5zamMwNS5obHMubGl2ZS12aWRlby5uZXQvdjEvc2VnbWVudC9DbUExZG0zVm9uNU9nTkRhSTRweTlXSlJLQXRQRFpFR2gzX0E4N3J2RnpuX3AxeWlaS1psU3Q2b29SZ0Q0RlAtS0ZoSUVzZW9jOWRJbWswY2hpM0lHN1VDWGlXbkxlR0k2VmlJeDhOd3BFZlN1QkdhX0lFbDJJVXM3WkJsbHBKbDIwX1dtbE1IRDI5X01kTVdFUi1qZDFMV041MUVwZENaOFJSR0JhX2NSQVdwbTJXWWNKenY0ZnRPV0tYcDRTRkxyZFM1ZWJBcl9xdnJzZmVsR1h6amhXT0JnVzNzZzhRTnpsWWFSOWhHcy1tOFFWMGlVQW12YW5JUEtrTDYxck12bVd0ZDAyNWpjZm5ucF9mcm5rOFJxMXdRMmZHWl9NVmlHX2tuQ2xxeWxVSXNzTjJ4bF9TTFR6dUE3dUlEOUVoVnNueHVEcGFDYmN2akZJNWpPYUU4S05oRFNnRk5wby1oWGxydVZjd2s5RThweTZ0b1V1YVFQVnJZSEh1QzV5Y1kxdEwwRjY0UEYya09xVndfQ1RMdmRrczdQNjNnWG9KM3dlbkE4cW00d3RCTmNBZkxuRkxPQkVta3U0T19qeW1fcmEyek4xQ3htMUxBWkdqVlZWWHBwSmFZREJKOWtxSHA0N2tBRDVjNjBtUjlGOTZIN184cEh6ak9KbUN5Snd4WC1Jc2RvRllqZjdEd3F3bWZ6WExKbnVZUDNrMTR1bVVPdUFyWTI5eGFwejNmTHFES3lLenVsb3FPRmtDM0ZiRkM5YWxkUFBGWnVMTk5Dd25tR3pVN1diVm5SZTZzNm91SzVSeVdmem0tTGczSEI2VzNHOGhfdXoxd1B0TndHQWdoenhGYkVFdFVVb3E2N3IycDFVQnM4MXQtU2hTeEs4aWJaRFNrQWVObG5lUXRIS3FyeF9Xd1Z5aHJ4dlR5Y0IwOWNfZHV4UEt2dzh0eTlfSlRQdnI5ZGlxemliXzhydUVVUzgwWmtQNmhpcFdWWHRzU3ZTRzZfUHhrLnRz"
+#EXT-X-SESSION-DATA:DATA-ID="CUSTOMER_ID",VALUE="196233775518"
+#EXT-X-SESSION-DATA:DATA-ID="CONTENT_ID",VALUE="Zd13fIH6QZyz"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="480p30",NAME="480p",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1427999,RESOLUTION=852x480,CODECS="avc1.4D401F,mp4a.40.2",VIDEO="480p30",FRAME-RATE=30.000
+https://fa723fc1b171.use22.playlist.live-video.net/v1/playlist/CqgFNDHXJhEOMEFKcX00SrPVAHlCE4MjrUszzih8D94IOKUgBvtJYAhddsY-F6EciABR6Js89haQgYuFgsWPxjJ23i72fkht3H7m2pPw2L48I_J78Idobo3QJRvUnGfPKmcD6ULJbg3dy4WI9pPS1brXzSMID6RPMBw-EnAS0RXvLDpdPmHXL-ezvbm6Gl1EbMAFqhnX46Col10ipcEWlN62KhcUlxJNFcbbMy4zZUhwdEwDF8fZWqY5TgoOHjTzx3weqkaBGickg3EWsB9pEIlZlHd6DBleDZ-la4TNnY69MWuD5QxZEHe9SByi5v8qfOk9HPuxfQEE0x7DfmxhqHACyHkuVtIOLe9zIrFbOKHgkOQaKKb0lIdmCV56BVR2_8OyRBSdcoBuiXegPSGFhLb8bVWWnNV4TOFs9Ft-ny9jvgaDWwHH7FB1PXTIAUvquqQZWMTVOL6HLjpI5115GPi_NqHOP3-BUGdjyh5GKI4hhyW9EVmrPKVKiPnLBis1zjp6fLSth0xoDdvMxXeNeTjfljVZSH0vAg6hWJgsNCbt1ryapUMMwz5Sis5bIkciK0xWOBH5gSf2IF5pwjW5EhF6yTyIvrOCovD8fGDSLoolQ5FYa9eiCx2B8U1SZE0FTzRy2WExXyJy8mhtO7gUSZ1KhDNJAbP7iaAN0bgiF8jRsWaR8vSSbbUeATy8PwDyYcyu8zR_SVcv0YR9Oi-PSiEXVlsNNgk4BbtKcELRACrn5b9Yz47yScM8EJ6Wive9davqIr1_D8UU4Tgww5MF72WH_iWO65eqqFaT7wg2wx_jD0vUssKJFtFKhXT4M2-_q6TCYhboQfxl9IvsFpVNq6-O7YCNZVhEKzi_6T8zwKx5_VT-RFtSYgcGSdb573cojpL9Vs8WnRbEz18aDDVsXNg-_dS_yeUMDiABKgl1cy1lYXN0LTIwrQ8.m3u8
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="360p30",NAME="360p",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=630000,RESOLUTION=640x360,CODECS="avc1.4D401F,mp4a.40.2",VIDEO="360p30",FRAME-RATE=30.000
+https://fa723fc1b171.use22.playlist.live-video.net/v1/playlist/CqAFfSS9M7w6IO3tNpcDR2zAEBmzUnbhbhj9XbeM380AKuBRef7-IgY7XBZI6WVHug-7GNZXFSAxaTTyUoN8MGgn0vrs5gE-8Rnj9M3H80AHlFP29JFWLqVcUgsj4yAoBaQjriQegflBkom2VP0qEtWGSqn8ZbSK-dIkhxGCqmmpuwLP4PaFNiC4En-OsuQBWRsO6kT1hu2gsgU7je8YUEriH8e-iA3XMZ3dcPynFg01ECbrBsFbFiJpsMTBLHPoNR-l6ylbixWoFTYuIsqARQ0VWy0Da2SqS0OzL8kOtSf9yulqmqlcufz380p7GYyi4FcVUZJqGotAqNbX58J3btwSGX-anxn266-70-J4b9maY3q5heoU-HzPx_3llUUNl72d89LlcYuk4Mm18nG0HferZu3lbEn4DZBvdFEykvHStBCowcfN0CW0iF4qYdL6UvQOVDD-ZY3HwlY1ha9G52UZXhklfB5u4NMK7iwy0BYJBuq3lTkFMZEMeTqOJY-gArv_LJUCzxP3FGcsDJWwUf9NajkBwXbzEGpsIUIxAJ4KQOl2Ps1MhrUW7UIaI8P7YM1Gy6b9cgdDOPAthiFwMhKVxFknrFfazDgrAqAUJEbyqSHxGoj1lKeB9kx7peiPEReEGxD2YAxE0a-LTMt_JrEiCqkHXrTlmYXMCnVkt9dy_c7euNttCZHVuih8BHyJwIBcJT4zRTuh6NhdCutgrvq9HIalAXH_VVeqrTDeoPofaaeiAPt96MlslqtciFl3Qxe9q4cBjDjlN99BBgCj92tDp9mwtuFsTlGZl3Qw3ZWbV-wDIKuCvPZOaXp9RgKJtx6ahudoxl2IxOfSICNHh3AcVm5-roMem96ch7tIgnElUQPabuWBEhdPt7soeGDxcLCsGgzQdmN_HFQ8IHpqpTcgASoJdXMtZWFzdC0yMK0P.m3u8
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="160p30",NAME="160p",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=230000,RESOLUTION=284x160,CODECS="avc1.4D401F,mp4a.40.2",VIDEO="160p30",FRAME-RATE=30.000
+https://fa723fc1b171.use22.playlist.live-video.net/v1/playlist/CpgFPXt94zXYXpdxDkaor9jTBxJImPOg3n6cXths0kte51KyWC5-FV_kcXZfV-KYSkkrJsuRrDvSzXC8OXhymACQCJlP8JDyZpO57KYMzhxptX-fLiCOTdm9ZcVHQH_MuYWXP6NQWYtfOwFML37-iDA2NVFRttzBdQFwrqYX6_TT1ddRef_dXYxMWr9oDjNJBm72r-PH5KERwbLKHiVcI18IKTJQi08G-ccppv0acY4fAug9Ep9nrt4ZPB05W2dmHgRnz-AZTNoZ1gBi5tS_yrejvcbJupkYNRcOJww2QfHSCzDv8C4hnQbQH5uRoltToeuzOYBx714uyqGkCEGNI8ez9xRobXc3r6IxeNcGTWtXfVZ8w_J7t8GUI2GD6gdhlM2ANsrNT68X5lgbotz4tTsVBqBLbI2PVu8yQ19KMPmU9azqjnr75GvhpKPPzhWJDVtN0gpTyDTmlV2PZw5GpbzZ0Of16VZrdZILXoy1i9pRjWQYVpRwjUZ3eMvIDxb6W29isRyH5KPal-LC-sWVg6uOlhA3BN5McgsSVTAXHf2-Of-nzfHco4trMp98JUETNSdf8FgrDtVszF9-SOdY2c2VkiWfGu8TxalHVT8ksgYHzhtQPXjWbKzK_WMzFPNWlsTOSnY_WZE_SjaFHgp8MmBzfFRTUFBNCRAc0NAGYSL797069AKk1fKHRDln09PHTXXRvtD7_ny2qdHcBf9HDbVFHXor2zEIYC49HcZuJv7GQ4N0KQFFlDklVwp0i_vKechkkY7kTjahcGWAocdBc7lPnC9suid7MYc29bVmpg731x4QB0C_IXdhlXJPWD8arBD1x5g7UDP76evQJkdp3JLmWgY0y0m52Hw6vfaIlvDVmebF14YFqfu6UhoMPOLRR71spa-tNxaCIAEqCXVzLWVhc3QtMjCtDw.m3u8
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="chunked",NAME="1080p",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=4773430,RESOLUTION=1920x1080,CODECS="avc1.4D401F,mp4a.40.2",VIDEO="chunked",FRAME-RATE=30.000
+https://fa723fc1b171.use22.playlist.live-video.net/v1/playlist/CroFsmwSam9pFpurKm2N11oNdz6-Txd_G7UTPl0N06iXzcbH_1o0pAzvS1QDpo1PaLkcuxpIrNdPgy0-yRqy2fppM5uE8w6oUyS1A4ZXssyFWWwwEpSCP8b4MKxpBbWthBuzf-Lad6SsYc-5tK71eR-FkzQLlJl1bFJJAbivqrJWW82nxOM-bAGpW50lDij7I3RfNMcWNRkLmXgRx7Sm5z4I9UOwCrw-6CneenRR3kur2VqieAg2jdWp12EL97hCyduTRLQmmrD-yQ7IyMuf0fY6voKDY61y05RIxiLghYOcAw5CZZG6vCK0IEshqy85wpwHtiOOkkso5UB6-fUVgXfUph06ksZpJ4QQhPQWpBpeFdPMVlKaTtzZ8Ad2H4jYuBjW_iZyvZHh_SBOGhTzVzpw6_IjiA2Ea_JpavgnjMbJ-Ld3uv6An_QbtofmBXAB63ygiIUI0hpz0HEFcBHFrCAM-T0EF9cewTLklNl7uDrTJdW02IzM8FaaU2LZgCzbJX37c3wGVa3dslVQHM8y5n1MZ7E-LiUPR5YbWhTUcmrR0oDGKElFo5x_N7wisWyWekGNgL0VrzqRAQXbrmMirSXNvLcBhXCLEImn6RNp36-31bEt34kNWld8S44OlZCnTCK-sZ26NrrRBmL-R6TSJ8ZfP20FXd3Rw-YEYX7wk0GhDmRKGTlX6LlcJgyAhm45w36T0WM28zvfhSkQLltmkeXXOwV8mhypuObfyiEe0r-vhu8H2qaFdJGheCWspQfFt2XcFUzNGK4GvxKLV58OowNDeA8Fu24BKPtZ_xODLnKjoTMWL8CiaUi1VPw_T19HTRVzpzvL_DRDi77MKof8bixEHhxTTcr39MlbBWSk5luwiKJ4g9pYHmK_5uBU131Eh7kmJQb-UDCQaXHeqSQhRI0mxeXctPkNTar0xSIaDMHn_YTxaCNQJy8m6yABKgl1cy1lYXN0LTIwrQ8.m3u8
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="720p30",NAME="720p",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=2373000,RESOLUTION=1280x720,CODECS="avc1.4D401F,mp4a.40.2",VIDEO="720p30",FRAME-RATE=30.000
+https://fa723fc1b171.use22.playlist.live-video.net/v1/playlist/CrAF8h0wKJN81d8l9RaYJT22RoPXcxY-SSn32_YA6AaPPZWM_e1JbVrUWLSxizKPZmMDeyjcocVBCUnlyOkuisw-oKzwNJwF_SNS_GzFie3VfOZSWFCXyPwInSA6LkS4wnLtKPB__B9fDGn3ujYX3s9GgSI_A55N3rcyRIDomI9_ihqp8jE_uFkweUvZhtJrN1MDFxl4JnTtWGaX5X4eaJNsV_xQt6eXI_ZtsLk8XRhAqJk5gdvjgZt5r0eBYjXawideJa7sYqWEtnUP_XEQH_qllLryj8iEynuO7Bl5VpATN_8P9_4U4vDrT1DrgE5ZVJ0C11u6dXzJLolNlStZy6PQ6j6icuyTFj6ysT1zCERGDExosCR5b6Ttks4V0e6JGh1TyICuIHBL5iBaCyljrei8WvQzpTQClYBsn2HXiyqrNAdqYbdNY1DqM6SZSZTAcfjMvB0mrK-RZo2upA4W7kjU5QTxdNQHp9rp8-kUKaCk2BD9ja1z0buLUScUApsiVmoVkJmP_MtEym92FDPcOKGYYFHFM1UG__Dk61YbXvJ-1lNH2P9ol9H4k9NeNabvSfYlEF3B-exSHeT54VOUVDprz5olTaM-3rDfvJ44CeA-sZKdHMglHivXJ9NowyxtEVh3hN7xDRq25CFHVlv8KNDJNCHcqcAk-IsE90-xsHuWmeyMvVdSs4NUbi5lhizrEqgz1yZaGmLWGC66uAAfLPnsrpiu32dzCAwOTpLTBySYGlIjCQCpxa1O1m9Y74iJdXivdbB3KrspvTRXhyTtMEs5_QpNor0NwA0gbh6YHh05jCPCqVtHNV1SbjeloufQBoXbU4vIkStoKnJBLZdpobwSDeRobt6vViraHPekcltA36eMdcnis6UD-pf-XFTOO-nlJDigzilwOIvU3_KiFGowdBoM_VSlCubNyzaRNxaFIAEqCXVzLWVhc3QtMjCtDw.m3u8
 
 #EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="" group-title="NITRO",TUDN 🇲🇽
 #KODIPROP:inputstream=inputstream.adaptive
