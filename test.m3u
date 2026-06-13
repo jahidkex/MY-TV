@@ -44,6 +44,11 @@ https://fa723fc1b171.use22.playlist.live-video.net/v1/playlist/CrAF8h0wKJN81d8l9
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", TAPMAD - HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+
+
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png" group-title="World_Cup",T Sports
 http://198.195.239.50:8095/T-spo_rts-hoichoi24/video.m3u8
 
