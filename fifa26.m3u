@@ -453,7 +453,7 @@ https://picocloud.thebosstv.com/main2/robi_fifa_main_abr/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="UHD Sports", FUSSBALL.TV 1 UHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="UHD Sports", FUSSBALL.TV 1 UHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
