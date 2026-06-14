@@ -36,6 +36,20 @@ https://fa723fc1b171.use22.playlist.live-video.net/v1/playlist/CroFsmwSam9pFpurK
 #EXT-X-STREAM-INF:BANDWIDTH=2373000,RESOLUTION=1280x720,CODECS="avc1.4D401F,mp4a.40.2",VIDEO="720p30",FRAME-RATE=30.000
 https://fa723fc1b171.use22.playlist.live-video.net/v1/playlist/CrAF8h0wKJN81d8l9RaYJT22RoPXcxY-SSn32_YA6AaPPZWM_e1JbVrUWLSxizKPZmMDeyjcocVBCUnlyOkuisw-oKzwNJwF_SNS_GzFie3VfOZSWFCXyPwInSA6LkS4wnLtKPB__B9fDGn3ujYX3s9GgSI_A55N3rcyRIDomI9_ihqp8jE_uFkweUvZhtJrN1MDFxl4JnTtWGaX5X4eaJNsV_xQt6eXI_ZtsLk8XRhAqJk5gdvjgZt5r0eBYjXawideJa7sYqWEtnUP_XEQH_qllLryj8iEynuO7Bl5VpATN_8P9_4U4vDrT1DrgE5ZVJ0C11u6dXzJLolNlStZy6PQ6j6icuyTFj6ysT1zCERGDExosCR5b6Ttks4V0e6JGh1TyICuIHBL5iBaCyljrei8WvQzpTQClYBsn2HXiyqrNAdqYbdNY1DqM6SZSZTAcfjMvB0mrK-RZo2upA4W7kjU5QTxdNQHp9rp8-kUKaCk2BD9ja1z0buLUScUApsiVmoVkJmP_MtEym92FDPcOKGYYFHFM1UG__Dk61YbXvJ-1lNH2P9ol9H4k9NeNabvSfYlEF3B-exSHeT54VOUVDprz5olTaM-3rDfvJ44CeA-sZKdHMglHivXJ9NowyxtEVh3hN7xDRq25CFHVlv8KNDJNCHcqcAk-IsE90-xsHuWmeyMvVdSs4NUbi5lhizrEqgz1yZaGmLWGC66uAAfLPnsrpiu32dzCAwOTpLTBySYGlIjCQCpxa1O1m9Y74iJdXivdbB3KrspvTRXhyTtMEs5_QpNor0NwA0gbh6YHh05jCPCqVtHNV1SbjeloufQBoXbU4vIkStoKnJBLZdpobwSDeRobt6vViraHPekcltA36eMdcnis6UD-pf-XFTOO-nlJDigzilwOIvU3_KiFGowdBoM_VSlCubNyzaRNxaFIAEqCXVzLWVhc3QtMjCtDw.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="UHD Sports", FUSSBALL.TV 1 UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-name="FRANCE TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",FRANCE TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+
 #EXTINF:-1 tvg-id="TUDN" tvg-name="TUDN" tvg-logo="" group-title="NITRO",TUDN 🇲🇽
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -182,10 +196,5 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6
 #KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
 
-#EXTINF:-1 tvg-name="FRANCE TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",FRANCE TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+
 
