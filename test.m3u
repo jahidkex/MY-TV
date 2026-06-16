@@ -103,6 +103,15 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/ma
 https://premierleagpl23.akamaized.net/hls/live/2107108/vertical-backup312/master.m3u8
 
 
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", SOMOY TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", I SCREEN - HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://picocloud.thebosstv.com/main2/robi_fifa_main_abr/playlist.m3u8|referer=https://iscreen.com.bd/
+
+
 #EXTINF:-1 tvg-name="TVRI INDO" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="World_Cup",TVRI INDO
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
