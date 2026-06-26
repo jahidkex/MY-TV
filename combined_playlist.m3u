@@ -6,8 +6,6 @@
 # 🔒 Usage: Personal / Educational
 #=================================
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/epg.xml"
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="SM All TV",Drama 24
 http://vods2.aynascope.net/gseriesDrama/index.m3u8
 
