@@ -474,9 +474,12 @@ https://bd-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di
 #EXTINF:-1 tvg-id="tapmad-14735" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825138051020x576.jpg" group-title="Tapmad", CrowdStrike 24 Hours of Spa - Race Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 
-
 #EXTINF:-1 tvg-name="Day 2    Fuji [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Fancode",Day 2    Fuji [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782706744~_GO=Generated~acl=/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/*~Signature=ARZJ1WLOxnEYXq9wSlebb1Y3Umtmz1BrZnYArAulUUb5ktMHComEXuHeCs8Lpj7Xs09-vojmz8KDstsMV00stBUVJoEO
+
+#EXTINF:-1 tvg-id="tapmad-14773" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825938621020x576.jpg" group-title="Tapmad", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 1
 http://sm-monirul.top/tof/live/toffee1/index.m3u8
 
