@@ -471,6 +471,10 @@ https://bd-mc-flive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di
 #EXTINF:-1 tvg-name="Chhinnamasta Lions Vs Kcc [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1781869164723/143525_CASACARDS_SPORTY_APP.png" group-title="Fancode",Chhinnamasta Lions Vs Kcc [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782701884~_GO=Generated~acl=/mumbai/143525_english_hls_89b739634b46548_1ta-di_h264/*~Signature=ARZJ1WJnzNf97KUNgHcHEmwujKBuQek1I_a0k5W1NZhqhgqK4X4bBIbWdD_YdJ7bs7ockVLEqLVI7Gt_h9TJvPCxdj4I
 
+#EXTINF:-1 tvg-id="tapmad-14735" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825138051020x576.jpg" group-title="Tapmad", CrowdStrike 24 Hours of Spa - Race Live | GT World Challenge EU & Asia 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
+
+
 #EXTINF:-1 tvg-name="Day 2    Fuji [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series_fc-web.jpg" group-title="Fancode",Day 2    Fuji [LIVE]
 https://bd-mc-flive.fancode.com/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782706744~_GO=Generated~acl=/mumbai/143639_english_hls_028522a5ed47924_1ta-di_h264/*~Signature=ARZJ1WLOxnEYXq9wSlebb1Y3Umtmz1BrZnYArAulUUb5ktMHComEXuHeCs8Lpj7Xs09-vojmz8KDstsMV00stBUVJoEO
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee",Toffee 1
