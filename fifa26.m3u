@@ -1,11 +1,33 @@
-EXTM3U
+#EXTM3U
+
+#====== Toffee World Cup ============
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/CDhGDZ8B23Y4IFgzksit/posters/a6e38235-14c1-4ec9-b3e5-cbf9765600df.png",England vs DR Congo | Rail
+https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/8TijEZ8B23Y4IFgzUs8F/posters/6eacf966-d1ab-45e7-a117-778a75d3f6de.png",Belgium vs Senegal | Rail
+https://candy.hasanhabibmottakin.workers.dev/oDRWpp4Bb1O6C9k7We2Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/8zijEZ8B23Y4IFgz7c8R/posters/4167454a-00e3-4413-aad7-661889b3f402.png",United States vs Bosnia and Herzegovina | Rail
+https://candy.hasanhabibmottakin.workers.dev/9TTspp4Bb1O6C9k7yfhl/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/cmakEZ8BnxRKiPhYqbIQ/posters/c1d1da15-b671-42c0-a457-57899a57f550.png",Spain vs Austria | Rail
+https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/dGalEZ8BnxRKiPhYErKg/posters/b799bd61-62e2-418d-8cb8-249b9b9334ba.png",Portugal vs Croatia | Rail
+https://candy.hasanhabibmottakin.workers.dev/oDRWpp4Bb1O6C9k7We2Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/9zilEZ8B23Y4IFgzfM9z/posters/14a193dc-f5a9-4745-b1a4-fca2357b8b9b.png",Switzerland vs Algeria | Rail
+https://candy.hasanhabibmottakin.workers.dev/9TTspp4Bb1O6C9k7yfhl/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/DCc3F58B-Ad-aJC_YeHT/posters/7628d0d6-66e9-4bc2-b129-95dab3c81dbd.png",Australia v Egypt | Rail
+https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/Eic4F58B-Ad-aJC_meFk/posters/f5555a75-f5d4-4f49-9268-b92553891e66.png",Argentina v Cabo Verde | Rail
+https://candy.hasanhabibmottakin.workers.dev/oDRWpp4Bb1O6C9k7We2Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/W_45F58BpeyY8kKcSZmP/posters/385c6159-c460-4c11-92e4-0fb51a000baa.png",Colombia v Ghana | Rail
+https://candy.hasanhabibmottakin.workers.dev/9TTspp4Bb1O6C9k7yfhl/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", Binge+
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/
 
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
-http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+http://198.195.239.50:8095/somoyTv/index.m3u8
+
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 
@@ -14,6 +36,11 @@ http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 #EXTVLCOPT:http-origin=https://tulnit.com
 #EXTVLCOPT:http-referrer=https://tulnit.com/
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Bioscope%2B.png" ,Bioscope+
+https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8 |x-authorization=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMzI0NTg2MTU0MzM5NjE0NzIiLCJhdWQiOlsiMSJdLCJleHAiOjE4MTM4NTQ4NjgsIm5iZiI6MTc4MjMxODg2OCwiaWF0IjoxNzgyMzE4ODY4LCJqdGkiOiIwMmY3Y2Y2M2I5OTFiMjY0Mzk0YmU2MjE0ZDJhNzI4MWYzZTExNWFkMGE4OGJhZTBmYTcyZjkwMTJmOTJmNGU1ZTA1N2Y3NGMxOGViODQzYyIsInNjb3BlcyI6WyJtYW5hZ2VfcHJvZmlsZXMiXSwicGlkIjoiMjMyNDU4Njc1MjYyMDA1MjQ4In0.kr0qIPfh66MktNCEAW_AcqFPzzX58VdP2JkVNzOjiOaig25qi9H6rttTcnKzJZoHD0Urj6YEom2S3Z_VujPXSugq9UXPFrzFbBA9zD-nMDgsNQrBr15K2uTAweqTClFduLPLyi-JvZWXpq8UbHybjhoen-Q3nRyHzOsQakQp8nRhR2yUYCiDBjwDPzF56WCVUWAYr1M19xRyiGJTqLmDI1KrT8CXwVdZFBZWqAptUnFMI6TEcoFSsRSMhN9_8KZCXbezExsToFIPbnIxp7ZPDD-qGT-KZ4GfPWrBUS93fiR4p8UzHn9Q3Bwba_mTxq3Fy8OhHilKCefoVTmyngBHwodjTOw8D9JkYc5-16QmYS6tBGbdgPRHKklTgkNYDlrQHCSQuNLTI_pRskw5oygUXkudpiPcUM9IFz8ud-rbbxVii-0ISXtwUIaEv_HBf_aA9cCGttN7ZdEquMTxbIhR27EMTwj5RdgE-i64iH__Xv3Ua4A5tzJjA5XR9Cqrsa3k84uCJlk74Z-8KBpvTcbMjAOhtqZOfimw736vSBgV9Xdk4dsoxpIfg90g38tfvCgYSwDgq5ulxTl3ygq7kS6BY1kT2m_R1T2Xdorm-75kbJ9iTn9IGa9PruwtmrtLlbuT2uivaw3E05U_UCrMwqeFZslbGtjAij95j083wmxXqUQ
+
+
 
 #EXTINF:-1 tvg-logo="https://platform.rockstreamer.com/platforms/iscreen.com.bd/assets/logo.png" , I SCREEN HD
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/
@@ -26,7 +53,7 @@ https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_of_Binge.svg" , Binge+
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-https://m3u-tvb.pages.dev/ics.m3u8
+https://m3u-tvb.pages.dev/ics.m3u8|
 #https://picocloud.thebosstv.com/main2/robi_fifa_main_abr/playlist.m3u8
 
 
@@ -39,14 +66,7 @@ https://m3u-tvb.pages.dev/ics.m3u8
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" , BTV BDIX
 http://198.195.239.50:8095/btv/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
-#https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
-http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
-
-=================================
 
 
 #====== Toffee World Cup ============
@@ -76,37 +96,21 @@ http://sm-monirul.top/fifa/iscreen/index.m3u8
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://m3u-tvb.pages.dev/ics.m3u8
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", M Crop
-https://aps11.playlist.ttvnw.net/v1/playlist/CrcEuSZnnRBRmdDIH99aRiIerBFMmQ7uy1VJUkuswKPFGip9KG2tE06JFEe5Axt4jbf5MbaV5bEWLO8aDwlK0_UpobZx_1aN0V3ccJGrvzzlG_O-XxEUfUNJ-MUzHVpqjt_6JTnR5psMMjNDfrQ3eTT6Nwlf3gMXxxj74DACl_yI0TfhfCNE619UgXDIK6SuvXkiE9YdfGNKu4fM_nMO-VHoYmubSR-0fQbXR0RWGhriCn3rXK-f89weHHUPcNO-G-nYruoG5S5EV3W_WM4YVhRnxe0tLqsgZcXozVE7qWqIQNt1sEpmY4o9dl3pScLeKpIKBmTp0VP5xLDM2Qhc0jn8WfdWIQ9HPTWNMLRCCBRCCxPl5k-ejWSxWO9V0VzxM_qWzzplV4AOkHe3oXsoNn7y5NOUmmwjPTnu_Ss7sUAniqzyLFqN9Z7eOJnjRMXa810RwQlOT0vFoUTHLSFM4vCQBt6p10m_nLK3Jt6aOOm0a7P34nUkxOwasIZDgEsvH4PCnvP0KzDIC5F4oR2jMuA6idoL2uUbvgB7talga1mA2ZyxSCXAfmONRHnhMZVsPp4ObzgXkcLviGNrBWvHRJcdmpR_jEi5AhQ4x-K71-K_vuLbieDbqblojLGzROeZZ-a8aNh0YQ4CKDVAbetOh-IlHW-o1i7DTyqDNCCajfL5jN3JYmqaqaT-2kZV_yyGahsg9MNdvpa5O1jAxV7lyzVlo50zaGAqkwOET0y2fiS-DdRYzGWKATt5GgxysCV9aAytSfz9gKIgASoJdXMtd2VzdC0yML0P.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",FOX FHD
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",FOX FHD DRM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/dcwbm4iztn/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/qdhb6wx8sc/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", FOX SPORTS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",Fox UHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",FOX UHD DRM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/znlxmhkktl/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/czdi5kndqu/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 
 
