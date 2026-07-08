@@ -2,15 +2,9 @@
 
 #====== Toffee World Cup ============
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/FhqhLZ8BBBDq2MemC6GJ/posters/908e13e6-23fa-4de4-ac21-04559ef70c72.png",Portugal VS Spain | Rail
-https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/GBqhLZ8BBBDq2MemqaGW/posters/868539af-ba1c-41b0-9251-2b86a4203250.png",USA VS Belgium | Rail
-https://candy.hasanhabibmottakin.workers.dev/oDRWpp4Bb1O6C9k7We2Q/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/TiiiLZ8B-Ad-aJC_UCC0/posters/d93406a5-e2df-41a2-aef0-bff3a90d4b6f.png",Argentina VS Egypt | Rail
-https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/UiijLZ8B-Ad-aJC_biAn/posters/0d33299c-7fdc-4efa-997c-4d381f5b85d9.png",Switzerland VS Colombia | Rail
-https://candy.hasanhabibmottakin.workers.dev/oDRWpp4Bb1O6C9k7We2Q/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/uv4FNp8BpeyY8kKcRsW6/posters/99994a9f-5767-4b66-bb1b-1d9535f56d46.png",France VS Morocco | Rail
+https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/quPSP58BwGRsZ_KAzcBm/posters/f612a31d-32f6-406c-9d81-aa5666b61c7e.png",Spain v Belgium | Rail
 https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/tP4FN58BpeyY8kKc2sqJ/posters/52493832-729f-4fc5-b8d7-a0d94a06a88f.png",Norway VS England | Rail
 https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
@@ -117,6 +111,16 @@ https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/iayg0kyrof/out/v
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",FOX SPORTS UHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/o3pcgihepg/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/o3pcgihepg/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|drmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+
 
 #====== TSN ============
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N09UZWA.png",TSN1
