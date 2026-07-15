@@ -6,6 +6,24 @@ https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/
 
 
 
+
+#EXTINF:-1 tvg-logo="https://platform.rockstreamer.com/platforms/iscreen.com.bd/assets/logo.png" , I SCREEN HD
+https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/isc_ssai/isc_ssai_720p/chunks.m3u8|referer=https://iscreen.com.bd/
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo_of_Binge.svg" , Binge+
+https://plmxcv-rtyhbnqa.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/019ee55780481567ee93172b12d642/main.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36&Referer=https://bingepluslive.com/&Origin=https://bingepluslive.com
+
+
+
+
+
+
+
+
+
+
  #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783440983-0-0-
 
