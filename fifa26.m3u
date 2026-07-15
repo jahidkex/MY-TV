@@ -1,12 +1,13 @@
 #EXTM3U"
 
 
-======= World Cup BD ================
-
+#======= World Cup BD ================
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+http://103.151.61.12/tv.bdixbd.net/video.m3u8
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783440983-0-0-
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
+https://node8.no-612.workers.dev/resource/MjQwNTk5MDY0MTY5OjI0MDU5OTA2NDE2OToxMjAzNTpsaXZl/index.m3u8
 
 #====== Toffee World Cup ============
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Sports Channels",Toffee 
@@ -76,11 +77,8 @@ https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
 http://103.165.93.31:8095/tsports/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/xAsJVp8BrGzIZ7RIY7zg/posters/42542bf1-512d-4f91-bb44-5361be85055b.png",France vs Spain | Rail
-https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/bopJWZ8B0ChbBSbTE1C3/posters/56b0d132-112a-42e3-84eb-238c2d755a79.png",England VS Argentina | Rail
 https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", Binge+
