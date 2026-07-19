@@ -133,7 +133,7 @@ https://candy.hasanhabibmottakin.workers.dev/zUGrjZ4BuUSiBsg_1BeE/index.m3u8
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/
 
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/icon.png" , Somoy TV
-http://198.195.239.50:8095/somoyTv/index.m3u8
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FSomoy-tv%2Ftracks-v1a1%2Fmono.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
