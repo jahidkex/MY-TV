@@ -1,153 +1,48 @@
-
-
 #EXTM3U
+######SonyLiv#######
 
-FIFA ★ WC26 1 4K 
-https://mikiprobot.cfd/live/b4da8be890/1364360.m3u8?t=806196f2f644fc358e33d8ad&e=1784165600
+#EXTINF:-1 tvg-id="sonyliv-1090537224" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020945/1784922261862627_UFC_Fight_Night_Ankalaev_vs_Guskov_landscape_thumbnail.jpg" group-title="Fight Sports", UFC Fight Night - Ankalaev vs Guskov - 25 Jul 2026 | UFC Fight Night - Ankalaev vs Guskov
+https://sonydaimenew.akamaized.net/hls/live/20000378/UFC_Live2507/ENG/master.m3u8?hdnea=exp=1785016233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1fac256861696f197478ec91928272125f11d95c9e8ef2e5795723d484a51996
 
-FIFA ★ WC26 2 4K 
-https://mikiprobot.cfd/live/b4da8be890/1364361.m3u8?t=c9b67ce90441353384f66a5d&e=1784165601
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785005096984_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Women's 200m Freestyle - Aquatics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785016242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6b1640994131520e3ba3240ffe077696203e414f71c98b2f242e11b78ef34551
 
-ES ★ FIFA WC 01: FRANCE VS SPAIN 20:00 CET
-https://mikiprobot.cfd/live/b4da8be890/1363383.m3u8?t=2fc650597c200d6485d99309&e=1784165601
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785005000181_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Alan Perrie vs Paul Trainor - Men's 80kg - Boxing - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785021648~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e8c31932cbc3c7134aa7b219116fed9a9857e915326e64db0141a93d4dd4c108
 
-FIFA ★ WC26 3 4K 
-https://mikiprobot.cfd/live/b4da8be890/1364362.m3u8?t=b917192788d66e432b69b639&e=1784165600
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785004049710_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Men's 50m Freestyle - Aquatics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785025232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6cda97a95a87b644be4b71678d7a2723fafad7faa958b0a192b6cd2cfb1e19e6
 
-ES ★ FIFA WC 03:
-https://mikiprobot.cfd/live/b4da8be890/1363381.m3u8?t=aca63ab612d0bd5bdc3bdcf8&e=1784165600
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785002573848_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Gymnastics", Women - Gymnastics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785025240~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e6cd468fcd7207a573b52710d3a338460c49f0d5bbe9feb4a91652beee249e25
 
-ES ★ FIFA WC 02:
-https://mikiprobot.cfd/live/b4da8be890/1363382.m3u8?t=f13213ba9e0a671600b0001d&e=1784165600
-
-EN ★ FIFA WC 02:
-https://mikiprobot.cfd/live/b4da8be890/1362327.m3u8?t=3b5fa1a579fdb804b9f21928&e=1784165600
-
-EN ★ FIFA WC 04:
-https://mikiprobot.cfd/live/b4da8be890/1362325.m3u8?t=5e32b2c80bfeb1bb32116d88&e=1784165601
-
-EN ★ FIFA WC 03:
-https://mikiprobot.cfd/live/b4da8be890/1362326.m3u8?t=ee3696d248e08d3366a38d8f&e=1784165601
-
-EN ★ FIFA WC 01: FRANCE VS SPAIN 20:00 CET
-https://mikiprobot.cfd/live/b4da8be890/1362328.m3u8?t=0d82f6fae212e48e891752aa&e=1784165601
-
-EN ★ FIFA WC 05:
-https://mikiprobot.cfd/live/b4da8be890/1362324.m3u8?t=b957045d81605e87e95f3da2&e=1784165601
-
-EN ★ FIFA WC 07:
-https://mikiprobot.cfd/live/b4da8be890/1362322.m3u8?t=38264949b9f127a99b8d6582&e=1784165601
-
-EN ★ FIFA WC 06:
-https://mikiprobot.cfd/live/b4da8be890/1362323.m3u8?t=f74826cae37130341e0bc8e6&e=1784165601
-
-EN ★ FIFA WC 08:
-https://mikiprobot.cfd/live/b4da8be890/1362321.m3u8?t=79982bde2e25adb1f1f8261f&e=1784165601
-
-AR ★ FIFA WC 01: FRANCE VS SPAIN 20:00 CET
-https://mikiprobot.cfd/live/b4da8be890/1362320.m3u8?t=3cedacb7bace4d6ff8e83242&e=1784165601
+#EXTINF:-1 tvg-id="sonyliv-1090537160" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020769/1784659746852796_The_Hundred2026_mens_Welsh_Fire_vs_MI_London_21jul_landscape_thumb.jpg" group-title="Cricket", Welsh Fire vs MI London - 25 Jul 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-WFML/master.m3u8?hdnea=exp=1785019832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=27e7e9aedecd417a5669d6bcec741e1870fc911c3d3e559bf8addc18c26a6e7f
 
 
-4K-WC: (DE) FUSSBALL.TV1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2028632.m3u8?t=f73b4a9974608645551f7c55&e=1784165710
+######Fancode######
 
-4K-WC: (FR) M6 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2028633.m3u8?t=a5dc5d959767790090288c3f&e=1784165710
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Cricket", West Indies Vs Pakistan | Pakistan tour of West Indies 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8
 
-4K-WC: (HK) NOW SPORTS 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2028635.m3u8?t=b53b04cd67df106a10d48954&e=1784165711
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf", Day 3   Main Feed | 3M Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___main_feed_4246803_english.m3u8
 
-4K-WC: (HK) NOW SPORTS 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2028634.m3u8?t=fa84af6135d9ef7c447c950d&e=1784165711
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Tennis", Day 6 | ATP 250 - Millenium Estoril Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_6_143514_english.m3u8
 
-4K-WC: (LATIN) UNIVERSO ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2028636.m3u8?t=73ae0b1dc655cf7ac742b3e5&e=1784165710
-
-4K-WC: (US) FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ (2)
-https://mikiprobot.cfd/live/b69c7916ae/2028639.m3u8?t=bcdf6e7322a6db59201b0436&e=1784165710
-
-4K-WC: (US) FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ (1)
-https://mikiprobot.cfd/live/b69c7916ae/2028640.m3u8?t=e4f331df3f9f59cde261f324&e=1784165710
-
-4K-WC: (US) FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ (1)
-https://mikiprobot.cfd/live/b69c7916ae/2028638.m3u8?t=d266f56c7ac54714c226480f&e=1784165710
-
-4K-WC: (US) FOX SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ (2)
-https://mikiprobot.cfd/live/b69c7916ae/2028637.m3u8?t=46ec0f637cf2500a17173b5b&e=1784165711
-
-4K-WC: (UK) BBC 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2028641.m3u8?t=e63980f8faa300e58efe1be9&e=1784165711
-
-4K-WC: (UK) BBC 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2043382.m3u8?t=dc687781be15fe92ee25f8f1&e=1784165711
-
-4K-WC: 4K 4 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2043383.m3u8?t=5bf8d6e9d2f70d765a9c0f5d&e=1784165711
-
-4K-WC: 4K 5 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2043384.m3u8?t=64ce59cf415c0e6161f25242&e=1784165711
-
-4K-WC: 4K 3 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2029747.m3u8?t=269027690678daa328b32eea&e=1784165711
-
-4K-WC: 4K 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2029748.m3u8?t=111e9d0aab133655ea98c28c&e=1784165711
-
-4K-WC: 4K 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
-https://mikiprobot.cfd/live/b69c7916ae/2029749.m3u8?t=53a49f0f10a5a2aa0471d235&e=1784165711
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Golf", Day 3   World Feed | 3M Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3___world_feed_4246804_english.m3u8
 
 
+#####Tapmad#####
 
-US: FUBO SPORTS XTRA ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2030136.m3u8?t=5f5abf1677e3f3bcfd0b02ba&e=1784165875
 
-US: FOX SPORTS 1 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012600.m3u8?t=16596d5cdd9d524f9efd5f7f&e=1784165874
-
-US: FOX SPORTS 2 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012599.m3u8?t=5841581f2e09ec261cc9a8bf&e=1784165875
-
-US: TELEMUNDO (EAST) ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012598.m3u8?t=683ecbdc811d0d80beec99f1&e=1784165874
-
-CA: RDS ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012639.m3u8?t=d06d2e19af7e6127fdb5a50b&e=1784165874
-
-CA: TSN 1 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012644.m3u8?t=90e125e4c6e09a5676035361&e=1784165874
-
-CA: TSN 4 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012641.m3u8?t=0294bd3493ce858172204420&e=1784165874
-
-CA: TSN 2 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012643.m3u8?t=48f7390f28ed120f145031c9&e=1784165875
-
-CA: TSN 3 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012642.m3u8?t=4ad0f3fefaab0d2af0926504&e=1784165875
-
-CA: TSN 5 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012640.m3u8?t=5117fc7075f186f5df8de0f3&e=1784165875
-
-UK: BBC 1 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012607.m3u8?t=23b02e8663db29ec31948eb3&e=1784165875
-
-UK: BBC TWO ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012605.m3u8?t=3c5d4a9cf19a2f53f2c420b0&e=1784165875
-
-UK: BBC 2 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012606.m3u8?t=e468fa84b5d84021f2a57bc7&e=1784165875
-
-UK: ITV 2 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012603.m3u8?t=8f938d39c6cfcd708b6fff40&e=1784165875
-
-UK: ITV 1 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012604.m3u8?t=1f1849c95d14c974acc106bb&e=1784165875
-
-UK: ITV 3 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012602.m3u8?t=3cc50e6d739039c3de92f42e&e=1784165875
-
-UK: ITV 4 ᴿᴬᵂ
-https://mikiprobot.cfd/live/b69c7916ae/2012601.m3u8?t=0116c1b8635c0cfd5685146b&e=1784165875
-
-UK: BBC SD
-https://mikiprobot.cfd/live/b69c7916ae/2030141.m3u8?t=6b41a819393ac8ddf920de78&e=1784165875
+#EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Cricket", West indies vs Pakistan | Pakistan Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-14954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847974191020x576.jpg" group-title="Mma", Ankalaev vs Guskov | UFC 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15188" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848779031020x576men.jpg" group-title="Cricket", Welsh Fire vs MI London | The Hundred Men's Competition 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848783901020x576.jpg" group-title="E Sports", EA Sports FC 26 - Day 4 | Esports World Cup 2026 (EWC)
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
