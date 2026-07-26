@@ -1,35 +1,66 @@
 #EXTM3U
 ######SonyLiv#######
 
+#EXTINF:-1 tvg-id="sonyliv-1090537305" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021054/1785022248690874_dc26_Jamshedpur_FC_vs_Defenders_FC_landscape.jpg" group-title="Football", Jamshedpur FC vs Defenders FC - 26 Jul 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000388/DC_Jamsh2607/ENG/master.m3u8?hdnea=exp=1785084628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0ff344f86758f1d1074b76a44972289469f734ee0498c4ece3a65c23b03125e4
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785060887255_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Men's 50m Breaststroke - Aquatics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785065429632_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Men's 4 x 200m Freestyle Relay - Aquatics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785077428~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=976a6c8e065f42e015ea97cc9ef77fdff145b2825c9ce6aec5d90056c096d3f6
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785060835360_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Kadijat Ajishola vs Helen Jones - Women's 54kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785072028~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=92da98e3ca4f3e6ea56cf7b29eaa1019b63e5b45dd95f50b5c17d70585d86968
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785066937248_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Martez Cope vs Pooana Khoahli - Men's 65kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785088724~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ec02c0a460b528f9682b58661cedd039bde6aa2fdcfc91e3ba657e84e7ffc43e
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785056225971_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Day 3 - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785072035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cd88002622e1af6224b985c8116b7e7a12f5e31c1380f403b6f5aeda42cb4103
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785066305952_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Sam Tolchard vs Robert Simpson - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000391/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785086427~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=38c657d9239edcdac06db1c1a5891dea83f9943e5f4f18574b0f089c5ac4d6f5
 
-#EXTINF:-1 tvg-id="sonyliv-1090537307" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784660530614499_The_Hundred2026_womens_Manchester_Super_Giants_vs_Birmingham_Phoenix_21jul_landscape_thumb.jpg" group-title="Cricket", Manchester Super Giants vs Birmingham Phoenix - 26 Jul 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785081032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46cd2812daae63bc1c3eac46531d1035438ef7b8c3cc84061c51ddd9f1820e2a
+#EXTINF:-1 tvg-id="sonyliv-1090537304" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474007257196_LIV_Golf_UK_Day4_landscape_thumb.jpg" group-title="Golf", UK - Day 4 - 26 Jul 2026 | LIV Golf
+https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_LIV2607/ENG/master.m3u8?hdnea=exp=1785088733~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a368f4d151d5f21e3f6a3c2c6dc2d658b1e49ec78e5566b5cfb98872adae16d3
 
 #EXTINF:-1 tvg-id="sonyliv-1090537303" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020217/1782816764828920_ABB_FIA_FormulaE_WC26_RD15_Tokyo_EPrix_final_Race_landscape_thumb.jpg" group-title="Racing", R15 - Tokyo E-Prix - Final  Race - 26 Jul 2026 | ABB FIA Formula E World Championship
 https://sonydaimenew.akamaized.net/hls/live/20000293/FIA_Form2607/ENG/master.m3u8?hdnea=exp=1785081042~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=708fa18f01639b67a14cb967dbbdbcc3ae602622c3d1a0c59394eb2a2f0509f5
-
 ######Fancode######
 
 
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png" group-title="Cricket", Jaffna Kings Vs Kandy Royals | Lanka Premier League 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jaffna_kings_vs_kandy_royals_4246728_english.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2_mini_matchcard.jpg" group-title="Motorsports", Race | F2 HUNGARY 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_139645_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket", India Vs Zimbabwe | India tour of Zimbabwe 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d271bd6480344bf5938574325cbbfcd7:88b68ebb9588d70ecef11f28c5099205
+https://bd-mc-flive.fancode.com/mumbai/143353_english_dash_71145_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Cricket", India Vs Zimbabwe | India tour of Zimbabwe 2026 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c108e7b44a1d4e65bd9edf19b46e5ec1:8dca625e57fa0b4c71e991016373eee4
+https://bd-mc-flive.fancode.com/mumbai/143353_hindi_dash_66824_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Golf", Day 4   World Feed | ISPS Handa Women's Scottish Open 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_4247420_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Motorsports", Race 2 | DTM 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/race_2_143801_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (ENGLISH) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069795cda96d40ad928a3555cca0b01c:6957ebc27c067c274f649b4aca6ad040
+https://bd-mc-flive.fancode.com/mumbai/139476_english_dash_52319_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (HINDI) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c61eefec70f24db49fbe45b90b19b4a6:51d5063903f58456782857ae2f531659
+https://bd-mc-flive.fancode.com/mumbai/139476_hindi_dash_26994_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hungarian_GP_2026_web.jpg" group-title="Formula 1", Race | F1 AWS HUNGARIAN GRAND PRIX 2026 (TAMIL) [DRM]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33b2d4d1002244419432b0bf3f5674e7:40ffda200e1465b4c5cd69084113123e
+https://bd-mc-flive.fancode.com/mumbai/139476_tamil_dash_93259_1drmta-di_h264/index.mpd
 
 
 #####Tapmad#####
 
 #EXTINF:-1 tvg-id="tapmad-15356" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848952541020x576.jpg" group-title="Multisports", Men's Semi Final A Session - World Championships Kaunas, Lithuania Live | UIPM 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15416" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849000201020x576.jpg" group-title="Volleyball", Nepal vs Bangladesh | CAVA Men's Volleyball Championship 2026
+#EXTINF:-1 tvg-id="tapmad-15417" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849001381020x576.jpg" group-title="Volleyball", Pakistan vs Uzbekistan | CAVA Men's Volleyball Championship 2026
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15385" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848938841020x576.jpg" group-title="E Sports", EA Sports FC 26 - Day 5 | Esports World Cup 2026 (EWC)
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
