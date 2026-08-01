@@ -2,6 +2,11 @@
 
 ######SonyLiv#######
 
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Australia vs New Zealand - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785588636~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=263329c93774b7da54be23674a0f60a827d86ef836213d58c7795ece248439e4
+
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Scotland vs South Africa - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785588646~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3fdc643b38f6927c5ed2a6054f20e0597214f2a48cfeed1fe8455a7e8f667337
 
 
 ######Fancode######
@@ -12,50 +17,45 @@ https://bd-mc-pdlive.fancode.com/mumbai/143520_english_hls_587326823210413_1ta-d
 
 #####Tapmad#####
 
-
-#EXTINF:-1 tvg-id="tapmad-15587" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854813721020x576.jpg" group-title="Racing", Qualifications - Kyrgyzstan Live | UIM F1H2O World Championship 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15480" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854899171020x576.jpg" group-title="Cricket", Afghanistan Pathans vs Asian Stars | Asian Legends League 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15616" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854981261020x576.jpg" group-title="Racing", French Qualifying Racing Live | GT World Challenge EU & Asia 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 
 
 
 #####axsports#####
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adamstown%20Rosebuds%20vs%20Valentine.jpg" group-title="LIVE", Adamstown Rosebuds vs Valentine - Northern NSW NPL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3aa692aed4bb3db0878030/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=8e14109a946f9de6d2dc42057a227158&x-time=1785563220
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Riverside%20Olympic%20(W)%20vs%20Launceston%20City%20(W).jpg" group-title="LIVE", Riverside Olympic (W) vs Launceston City (W) - AUS TSA Women's Super League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6c08c3357679400cf81ddb/chunks.m3u8?is_vip=false&token=1785650547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cbe9233d6d8175d2578292e1b06edae6
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Glenorchy%20Knights%20Women%20vs%20Devonport%20Strikers%20Women.jpg" group-title="LIVE", Glenorchy Knights Women vs Devonport Strikers Women - AUS TSA Women's Super League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6c08c3357679400cf81ddc/chunks.m3u8?is_vip=false&token=1785650549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0547e8b7886e3b385ed7d4252887ac69
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%2011.jpg" group-title="LIVE", Secto Rally Finland: Stage 11 - WRC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785650551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a0ce9f55a28fcd92537f86a246ceb6e
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belconnen%20United%20vs%20Cooma%20Tigers.jpg" group-title="LIVE", Belconnen United vs Cooma Tigers - AUS NPL ACT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf5bd8b58515014721f/chunks.m3u8?is_vip=false&token=1785650553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-652e52982a31b59479852248e181b37d
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Queensland%20Cowboys%20vs%20Canberra%20Raiders.jpg" group-title="LIVE", North Queensland Cowboys vs Canberra Raiders - NRL Women's Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1785650554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-355730dbfd789815636172c07d75b24e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1785655943-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d23f282ee8077b896cde469498a92b5b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Modbury%20Vista%20(W)%20vs%20Campbelltown%20City%20(W).jpg" group-title="LIVE", Modbury Vista (W) vs Campbelltown City (W) - AUS-S Women's Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6b7c3f2d5e658d654f2b45/chunks.m3u8?is_vip=false&token=1785650556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e80e2a177d816844e9a05f63861934d5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6b7c3f2d5e658d654f2b45/chunks.m3u8?is_vip=false&token=1785655945-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-14399ec70bde4199e61a9da5ded49a48
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%2012.jpg" group-title="LIVE", Secto Rally Finland: Stage 12 - WRC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785655948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9051916db30d90235a6092b6a12e0705
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/The%20Gap%20NPL%20(W)%20vs%20Grange%20Thistle%20(W).jpg" group-title="LIVE", The Gap NPL (W) vs Grange Thistle (W) - AUS QLD Women's League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6b7c3f2d5e658d654f2b47/chunks.m3u8?is_vip=false&token=1785655950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f4142f048fe1ffb3701fdaa45f55cf4d
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Logan%20Lightning%20Women%20vs%20North%20Lakes%20United%20(W).jpg" group-title="LIVE", Logan Lightning Women vs North Lakes United (W) - AUS QLD Women's League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6c6b384b4d858b85e60838/chunks.m3u8?is_vip=false&token=1785655952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c5569110fd55993d0e730d4babd16a43
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%2013.jpg" group-title="LIVE", Secto Rally Finland: Stage 13 - WRC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785655954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-59c71a924cb55f300933fbd36b217cef
 
 #####bingstream#####
 
