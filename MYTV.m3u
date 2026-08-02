@@ -2,27 +2,41 @@
 
 ######SonyLiv#######
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Bowls And Para Bowls - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090538314" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021473/1785447790990491_dc26_Mohammedan_SC_vs_Samaleswari_Sporting_landscape.jpg" group-title="Football", Mohammedan SC vs Samaleswari Sporting  - 2 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000291/Football0208/ENG/master.m3u8?hdnea=exp=1785685833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fde6ca34197ee230e992a888794a81cacbce9d941cca859f0b1a742c038ed6b1
+
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785668095535_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Australia vs New Zealand - Para Men's Pairs B6-B8 - Bowls and Para Bowls - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785676831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f21126a6ce189ee05229846190b61947e8288793a4ac05f5bd410fef91fa37bb
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", Netball - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Judo - Semi-Final - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785680437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2e57c3297cee025871c40ef989cef5fa18e42671b5ff980fffc61ec7b1b48ad5
+
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785669393863_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Kayhan Ozcicek-Takagi vs John Messe A Bessong - Men +100 kg - Judo - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785676842~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0e55d3b7eb2086018928e2187821812a79cb13ea920f307663ed3f94640bcde1
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Cycling", Cycling - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785669426462_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Cycling", Women's Keirin - Cycling - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785676855~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a1e331effe4b8a2bb1a3420c34230254bc0f68c77fd790649ecc911dedd3dfc2
+
+#EXTINF:-1 tvg-id="sonyliv-1090538304" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511100207431_The_Hundred2026_womens_Trent_Rockets_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Cricket", Trent Rockets vs Sunrisers Leeds - 2 Aug 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785685844~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e033e7dcb4640bf174132c51b67288b419aeef2aebb845dd47d711bfdc387542
 
 ######Fancode######
 
+#EXTINF:-1 tvg-name="Outer Delhi Warriors Vs Central Delhi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DPL-Mini.png" group-title="Cricket",Outer Delhi Warriors Vs Central Delhi Kings
+https://bd-mc-pdlive.fancode.com/mumbai/4247966_english_hls_87e2120e6614913_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/333.png" group-title="Cricket",Pakistan Women Vs Sri Lanka Women
-https://bd-mc-pdlive.fancode.com/mumbai/4247430_english_hls_95c58d450c16763_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Indian Royals Vs Pakistan Panthers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248197_53019_INR_PP_fc-web.jpg" group-title="Cricket",Indian Royals Vs Pakistan Panthers
+https://bd-mc-pdlive.fancode.com/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8
 
 #####Tapmad#####
 
-#EXTINF:-1 tvg-id="tapmad-15475" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853991961020x576.jpg" group-title="Cricket", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15652" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856032421020x576.jpg" group-title="Racing", France - Champion, MitJet and Tourism Live | GT World Challenge EU & Asia 2026
+
+#EXTINF:-1 tvg-id="tapmad-15482" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855016111020x576.jpg" group-title="Cricket", Indian Royals vs Pakistan Panthers | Asian Legends League 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15664" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856073841020x576.jpg" group-title="Racing", French Porsche and Elf Cup Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15233" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855950071020x576women.jpg" group-title="Cricket", Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #####axsports#####
 
@@ -30,18 +44,87 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Tour%2023%E2%80%9324%20%20Manila.jpg" group-title="LIVE", Asian Tour 23–24 | Manila - Asian Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1785742343-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c56cf0e6655b1acec726c241e635ad99
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1785759448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-80a3e4d99a2cc8f6d719ff9d516903b9
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adelaide%20Crows%20vs%20Essendon%20Bombers.jpg" group-title="LIVE", Adelaide Crows vs Essendon Bombers - AFL Premiership
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rockets%20vs%20Leeds.jpg" group-title="LIVE", Rockets vs Leeds - The Hundred Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1785742345-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5efac728995d8f3722546e8812f5ae5f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785759450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eff50c45025b1eb3e97dc7466e62b2d7
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secto%20Rally%20Finland%20Stage%2019.jpg" group-title="LIVE", Secto Rally Finland: Stage 19 - WRC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Daejeon%20Hana%20Citizen%20vs%20Gwangju%20FC.jpg" group-title="LIVE", Daejeon Hana Citizen vs Gwangju FC - South Korea K League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161360/720p/chunks.m3u8?is_vip=false&token=1785742347-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-835f416607e5eb88aabec46130ea00f2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30ebc5c3ef2c48f0af/chunks.m3u8?is_vip=false&token=1785759452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6bfe8d2a6ae3621f21596f8c4e9c7fa
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jeju%20SK%20vs%20Incheon%20Utd.jpg" group-title="LIVE", Jeju SK vs Incheon Utd - South Korea K League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30ebc5c3ef2c48f0ae/chunks.m3u8?is_vip=false&token=1785759454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-78ad5debe7c2dee5e824b5d1f1ad9b09
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Busan%20I%20Park%20vs%20Seoul%20E-Land%20FC.jpg" group-title="LIVE", Busan I Park vs Seoul E-Land FC - South Korea K League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae203/chunks.m3u8?is_vip=false&token=1785759456-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-387dac370a117ff7e99b743e94af8da4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gimpo%20FC%20vs%20Gyeongnam%20FC.jpg" group-title="LIVE", Gimpo FC vs Gyeongnam FC - South Korea K League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae202/chunks.m3u8?is_vip=false&token=1785759458-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f5625a16b4218bee3244e921e5849bf2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jeonnam%20Dragons%20vs%20Paju%20Frontier%20FC.jpg" group-title="LIVE", Jeonnam Dragons vs Paju Frontier FC - South Korea K League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30ebc5c3ef2c48f0b1/chunks.m3u8?is_vip=false&token=1785759460-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-96efb276fe95c0ea91100acadedf2bcc
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ansan%20Greeners%20FC%20vs%20Gimhae%20FC%202008.jpg" group-title="LIVE", Ansan Greeners FC vs Gimhae FC 2008 - South Korea K League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae204/chunks.m3u8?is_vip=false&token=1785759461-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-17cbd417c8c69106e6d1b1b7fc95ba2a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ulsan%20HD%20vs%20FC%20Anyang.jpg" group-title="LIVE", Ulsan HD vs FC Anyang - South Korea K League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30ebc5c3ef2c48f0b0/chunks.m3u8?is_vip=false&token=1785759463-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a62cc0db068fc9b28b8030b8c0504520
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Changchun%20Yatai%20vs%20Hebei%20Kungfu.jpg" group-title="LIVE", Changchun Yatai vs Hebei Kungfu - League One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae205-cnhd/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=f8da688cfb283342d6562194463f558b&x-time=1785673020
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shenzhen%20Juniors%20vs%20Wuxi%20Wugou.jpg" group-title="LIVE", Shenzhen Juniors vs Wuxi Wugou - League One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae207-cnhd/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=6cda19e07dded55dafcb17a0df9c2748&x-time=1785672120
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Suzhou%20Dongwu%20vs%20Meizhou%20Kejia.jpg" group-title="LIVE", Suzhou Dongwu vs Meizhou Kejia - League One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae206-cnhd/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=b25f44cb0438687e848f5e4eaba61391&x-time=1785673020
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race%20Day%20Part%201%20Flanders.jpg" group-title="LIVE", Race Day Part 1: Flanders - MXGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1785759468-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-081551bbcb6cd1df2a931114693da64e
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liaoning%20Ironman%20vs%20Shanghai%20Shenhua.jpg" group-title="LIVE", Liaoning Ironman vs Shanghai Shenhua - China Super League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae213/chunks.m3u8?is_vip=false&token=1785759470-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-04982bd313c7d62baaeeee7218e9d9ab
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IF%20Brommapojkarna%20vs%20Malmo%20FF.jpg" group-title="LIVE", IF Brommapojkarna vs Malmo FF - Allsvenskan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae223/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=c3366a8874698084d2a3eac2e4fc61a6&x-time=1785673020
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Midtjylland%20vs%20AC%20Horsens.jpg" group-title="LIVE", FC Midtjylland vs AC Horsens - Superliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae215-hd/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=73b1943af18f967501376d79f8483e23&x-time=1785673020
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Nordsjaelland%20vs%20Randers%20FC.jpg" group-title="LIVE", FC Nordsjaelland vs Randers FC - Superliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae216/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=0184c384527802a8e76a2262e0895923&x-time=1785673020
 
 
 
