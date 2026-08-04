@@ -744,6 +744,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3DQSZ4MNE3D4K9/2547/inde
 #EXTINF:0 tvg-rec="3",Sky Sports PL
 http://dino2.123sat.net/play/live.php?mac=00:1A:79:39:DE:80&stream=577977&extension=ts&play_token=VoNdPOwiaa
 #EXTGRP:EPL
+#EXTINF:0 tvg-rec="3",Sky Sports PL 03
+http://office.area51.vip/play/live.php?mac=00:1A:79:79:9A:58&stream=1458669&extension=ts&play_token=IE5LtCCvNe
+#EXTGRP:EPL
 #EXTINF:0 tvg-rec="3",Sky Sports PL 2
 http://dino2.123sat.net/play/live.php?mac=00:1A:79:39:DE:80&stream=577996&extension=ts&play_token=cgxyMoPkQA
 
@@ -753,8 +756,15 @@ http://dino2.123sat.net/play/live.php?mac=00:1A:79:39:DE:80&stream=577967&extens
 
 #EXTGRP:EPL
 #EXTINF:0 tvg-rec="3",TNT 2
+
 http://dino2.123sat.net/play/live.php?mac=00:1A:79:39:DE:80&stream=577966&extension=ts&play_token=snzvXYrde9&sn2=
 
+#EXTGRP:EPL
+#EXTINF:0 tvg-rec="3",TNT 2
+http://office.area51.vip/play/live.php?mac=00:1A:79:79:9A:58&stream=1458666&extension=ts&play_token=NkY4uRsaUz
+#EXTGRP:EPL
+#EXTINF:0 tvg-rec="3",TNT 1
+http://office.area51.vip/play/live.php?mac=00:1A:79:79:9A:58&stream=1458678&extension=ts&play_token=xHixMTG4G4
 
 #EXTGRP:EPL
 EPL 01
