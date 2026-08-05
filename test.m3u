@@ -816,3 +816,13 @@ http://dino2.123sat.net/play/live.php?mac=00:1A:79:39:DE:80&stream=994291&extens
 #EXTGRP:UCL
 #EXTINF:0 tvg-rec="3",UCL Prime
 http://dino2.123sat.net/play/live.php?mac=00:1A:79:75:4D:D2&stream=1177750&extension=ts&play_token=SEpMh4YRtg
+
+#EXTGRP:UCL
+#EXTINF:0 tvg-rec="3",UCL 06
+http://pro.jekol.cfd/play/live.php?mac=00:1A:79:00:24:C0&stream=458504&extension=ts&play_token=EK1xWYHrKw
+#EXTGRP:UCL
+#EXTINF:0 tvg-rec="3",UCL 07
+http://pro.jekol.cfd/play/live.php?mac=00:1A:79:00:24:C0&stream=458503&extension=ts&play_token=xWHvLAtmeJ
+#EXTGRP:UCL
+#EXTINF:0 tvg-rec="3",UCL 08
+http://pro.jekol.cfd/play/live.php?mac=00:1A:79:00:24:C0&stream=458498&extension=ts&play_token=Ftlykggonk
