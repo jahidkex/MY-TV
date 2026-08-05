@@ -749,6 +749,12 @@ http://office.area51.vip/play/live.php?mac=00:1A:79:79:9A:58&stream=1458669&exte
 #EXTGRP:EPL
 #EXTINF:0 tvg-rec="3",Sky Sports PL 2
 http://dino2.123sat.net/play/live.php?mac=00:1A:79:39:DE:80&stream=577996&extension=ts&play_token=cgxyMoPkQA
+#EXTGRP:EPL
+#EXTINF:0 tvg-rec="3",VIA PLAY 01
+http://10431-plan.ott-cdn.me/play/live.php?mac=00:1A:79:31:B7:C0&stream=891332&extension=ts&play_token=Ogs0DFPMDW
+#EXTGRP:EPL
+#EXTINF:0 tvg-rec="3",VIA PLAY 02
+http://10431-plan.ott-cdn.me/play/live.php?mac=00:1A:79:31:B7:C0&stream=891333&extension=ts&play_token=qm9LeohvFM
 
 #EXTGRP:EPL
 #EXTINF:0 tvg-rec="3",TNT 1
