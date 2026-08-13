@@ -35,3 +35,58 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+
+#####live####
+
+:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Australia%20Vs%20Bangladesh.jpg" group-title="Cricket", Australia Vs Bangladesh
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket", Cpl T20 Vs Cpl T20 - WILLOW FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee7be87726ddb2707317c53d2359e012:075a609968f9052109f3c92982170396
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nwlpftqadx/out/v1/eb355c59d99443d7aaf05b6f9f6afd75/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket", Cpl T20 Vs Cpl T20 - FOX CRICKET HD
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket", Cpl T20 Vs Cpl T20 - WILLOW ALT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee7be87726ddb2707317c53d2359e012:075a609968f9052109f3c92982170396
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nwlpftqadx/out/v1/eb355c59d99443d7aaf05b6f9f6afd75/cenc.mpd
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket", Cpl T20 Vs Cpl T20 - SKY SPORTS NZ
+https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xdfg.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket", Cpl T20 Vs Cpl T20 - WILLOW HD
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket", Cpl T20 Vs Cpl T20 - TAPMAD FHD
+#EXTVLCOPT:http-referrer=https://tapmad.com
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark" group-title="Cricket", Cpl T20 Vs Cpl T20 - FANCODE (IND)
+#EXTVLCOPT:http-referrer=https://fancode.com/
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+https://dai-fancode.pages.dev/mumbai/4248286_english_hls_c15d148d2e71126_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Abha%20Vs%20Al-Hazem.jpg" group-title="Football", Abha Vs Al-Hazem - Link 1
+https://file.genoads.com/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aew%20Vs%20Aew.jpg" group-title="Boxing", Aew Vs Aew - TSN SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aew%20Vs%20Aew.jpg" group-title="Boxing", Aew Vs Aew - AEW LIVE HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/49815/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aew%20Vs%20Aew.jpg" group-title="Boxing", Aew Vs Aew - FOX SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Aew%20Vs%20Aew.jpg" group-title="Boxing", Aew Vs Aew - SD SERVER
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.193/hls/HHHH.m3u8
