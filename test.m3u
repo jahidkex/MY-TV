@@ -826,3 +826,636 @@ http://pro.jekol.cfd/play/live.php?mac=00:1A:79:00:24:C0&stream=458503&extension
 #EXTGRP:UCL
 #EXTINF:0 tvg-rec="3",UCL 08
 http://pro.jekol.cfd/play/live.php?mac=00:1A:79:00:24:C0&stream=458498&extension=ts&play_token=Ftlykggonk
+
+
+########################
+
+#EXTINF:0 tvg-id="elb807" catchup="flussonic" catchup-days="3" tvg-name="Arena Sport 1 HD RS" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/arena-sport-1.png",Arena Sport 1 HD RS
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/08946989/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb812" catchup="flussonic" catchup-days="3" tvg-name="Arena Sport 2 HD RS" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/arena-sport-2.png",Arena Sport 2 HD RS
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/08946990/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb816" catchup="flussonic" catchup-days="3" tvg-name="Arena Sport 3 HD RS" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/arena-sport-3.png",Arena Sport 3 HD RS
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/08946991/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb819" catchup="flussonic" catchup-days="3" tvg-name="Arena Sport 4 HD RS" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/arena-sport-4.png",Arena Sport 4 HD RS
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/08946992/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1946" catchup="flussonic" catchup-days="3" tvg-name="MAX Sport 1 HD BG" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/max-sport-1.png",MAX Sport 1 HD BG
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08946901/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1948" catchup="flussonic" catchup-days="3" tvg-name="MAX Sport 2 HD BG" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/max-sport-2.png",MAX Sport 2 HD BG
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08946902/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1949" catchup="flussonic" catchup-days="3" tvg-name="MAX Sport 3 HD BG" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/max-sport-3.png",MAX Sport 3 HD BG
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08946903/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1950" catchup="flussonic" catchup-days="3" tvg-name="MAX Sport 4 HD BG" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/max-sport-4.png",MAX Sport 4 HD BG
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08946904/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2250" catchup="flussonic" catchup-days="3" tvg-name="Nova Sports 1 HD CZ" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/nova-sport1-cz.png",Nova Sports 1 HD CZ
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/YnRfc3BvcnRfMQ/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2251" catchup="flussonic" catchup-days="3" tvg-name="Nova Sports 2 HD CZ" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/nova-sport2-cz.png",Nova Sports 2 HD CZ
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/YnRfc3BvcnRfMg/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2252" catchup="flussonic" catchup-days="3" tvg-name="Nova Sports 3 HD CZ" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/nova-sport3-cz.png",Nova Sports 3 HD CZ
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/YnRfc3BvcnRfMw/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2253" catchup="flussonic" catchup-days="3" tvg-name="Nova Sports 4 HD CZ" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/nova-sport4-cz.png",Nova Sports 4 HD CZ
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/YnRfc3BvcnRfZXNwbg/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3203" catchup="flussonic" catchup-days="3" tvg-name="UPL.TV HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/upltv.png",UPL.TV HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/29946910/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4567" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bundesliga-de.png",Sky Sport Bundesliga HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/skysportf1/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2703" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga 1 HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bl1.png",Sky Sport Bundesliga 1 HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08946924/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2704" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga 2 HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bl2.png",Sky Sport Bundesliga 2 HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08946925/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2705" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga 3 HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bl3.png",Sky Sport Bundesliga 3 HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08946926/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2706" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga 4 HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bl4.png",Sky Sport Bundesliga 4 HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08946927/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2707" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga 5 HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bl5.png",Sky Sport Bundesliga 5 HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08946928/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2708" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga 6 HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bl6.png",Sky Sport Bundesliga 6 HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08946929/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2703" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga 7 HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bundesliga-de.png",Sky Sport Bundesliga 7 HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08946930/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2703" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga 8 HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bundesliga-de.png",Sky Sport Bundesliga 8 HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08946931/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2703" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga 9 HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bundesliga-de.png",Sky Sport Bundesliga 9 HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08946932/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2703" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Bundesliga 10 HD DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-bundesliga-de.png",Sky Sport Bundesliga 10 HD DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08946933/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2743" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Main Event HD UK" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/skymain.png",Sky Sport Main Event HD UK
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c19l8u2d4f9l1a3r7e19/09946938/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2237" catchup="flussonic" catchup-days="3" tvg-name="УПЛ ТВ 1 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/upl1.png",УПЛ ТВ 1 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/29946911/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2237" catchup="flussonic" catchup-days="3" tvg-name="УПЛ ТВ 2 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/upl2.png",УПЛ ТВ 2 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/29946912/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2237" catchup="flussonic" catchup-days="3" tvg-name="УПЛ ТВ 3 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/upl3.png",УПЛ ТВ 3 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/29946913/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3377" catchup="flussonic" catchup-days="3" tvg-name="Волейбол HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/voleybol.png",Волейбол HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08946989/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3050" catchup="flussonic" catchup-days="3" tvg-name="TSN 1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tsn1.png",TSN 1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08946967/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3051" catchup="flussonic" catchup-days="3" tvg-name="TSN 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tsn2.png",TSN 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08946968/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3053" catchup="flussonic" catchup-days="3" tvg-name="TSN 3" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tsn3.png",TSN 3
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08946969/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3054" catchup="flussonic" catchup-days="3" tvg-name="TSN 4" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tsn4.png",TSN 4
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08946970/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3055" catchup="flussonic" catchup-days="3" tvg-name="TSN 5" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tsn5.png",TSN 5
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08946971/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1964" catchup="flussonic" catchup-days="3" tvg-name="M. Sport HD UA" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/megogo-sport.png",M. Sport HD UA
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c19l8u2d4f9l1a3r7e19/08946938/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1111" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Extra 1 PL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/canal-pl-extra-1.png",Canal+ Extra 1 PL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/29946906/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1112" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Extra 2 PL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/canal-pl-extra-2.png",Canal+ Extra 2 PL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/29946907/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1113" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Extra 3 PL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/canal-pl-extra-3.png",Canal+ Extra 3 PL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/29946908/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1114" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Extra 4 PL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/canal-pl-extra-4.png",Canal+ Extra 4 PL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/29946909/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb174" catchup="flussonic" catchup-days="3" tvg-name="Бокс ТВ" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/box-tv.png",Бокс ТВ
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/BOKSTV/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb269" catchup="flussonic" catchup-days="3" tvg-name="Матч! Арена" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-arena.png",Матч! Арена
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/match_arena_SD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb269" catchup="flussonic" catchup-days="3" tvg-name="Матч! Арена HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-arena.png",Матч! Арена HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_ARENA/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb267" catchup="flussonic" catchup-days="3" tvg-name="Матч! ТВ" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/federal/match-tv.png",Матч! ТВ
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/mAtch_tv/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb267" catchup="flussonic" catchup-days="3" tvg-name="Матч! ТВ HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-tv.png",Матч! ТВ HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_HD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb267" catchup="flussonic" catchup-days="3" tvg-name="Матч! HD orig" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-tv.png",Матч! HD orig
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/M_HD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb270" catchup="flussonic" catchup-days="3" tvg-name="Матч! Боец" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-boec.png",Матч! Боец
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_BOEC/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb272" catchup="flussonic" catchup-days="3" tvg-name="Матч! Игра" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-igra.png",Матч! Игра
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/match_igra_SD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb273" catchup="flussonic" catchup-days="3" tvg-name="Матч! Игра HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-igra.png",Матч! Игра HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_IGRA/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1941" catchup="flussonic" catchup-days="3" tvg-name="Матч! Планета" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-planeta.png",Матч! Планета
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_PLANETA/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb266" catchup="flussonic" catchup-days="3" tvg-name="Матч! Премьер" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-premiere.png",Матч! Премьер
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/09946926/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb266" catchup="flussonic" catchup-days="3" tvg-name="Матч! Премьер HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-premiere.png",Матч! Премьер HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/M_PREMIER/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb266" catchup="flussonic" catchup-days="3" tvg-name="Матч! Премьер HD orig" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-premiere.png",Матч! Премьер HD orig
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_PREMIER_HD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb274" catchup="flussonic" catchup-days="3" tvg-name="Матч! Страна HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-strana.png",Матч! Страна HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_STRANA/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb277" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 1 SD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-football1.png",Матч! Футбол 1 SD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/18946914/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb277" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 1 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-football1.png",Матч! Футбол 1 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_FOOTBALL_1/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb279" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 2 SD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-football2.png",Матч! Футбол 2 SD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/18946915/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb279" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 2 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-football2.png",Матч! Футбол 2 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_FOOTBALL_2/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb281" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 3 SD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-football3.png",Матч! Футбол 3 SD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/18946916/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb281" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 3 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-football3.png",Матч! Футбол 3 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_FOOTBALL_3/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb276" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 1 HD OTT" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-football1.png",Матч! Футбол 1 HD OTT
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/m_foot1/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb278" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 2 HD OTT" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-football2.png",Матч! Футбол 2 HD OTT
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/m_foot2/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb280" catchup="flussonic" catchup-days="3" tvg-name="Матч! Футбол 3 HD OTT" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/match-football3.png",Матч! Футбол 3 HD OTT
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/m_foot3/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2686" catchup="flussonic" catchup-days="3" tvg-name="Сила HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sila.png",Сила HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/aa_2_5033/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2656" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 1 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta-sports1.png",Setanta Sports 1 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/SETRU/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2657" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 2 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta-sports2.png",Setanta Sports 2 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/SETRU2/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2659" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 1 HD Georgia" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta1-ge.png",Setanta Sports 1 HD Georgia
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936903/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2662" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 2 HD Georgia" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta2-ge.png",Setanta Sports 2 HD Georgia
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936902/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2665" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 3 HD Georgia" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta3-ge.png",Setanta Sports 3 HD Georgia
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/SETANTA_SPORTS_3_HD_GEORGIA/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2661" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports Baltic HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta1-lt.png",Setanta Sports Baltic HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/SETANTA_SPORTS_BALTIC/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4207" catchup="flussonic" catchup-days="3" tvg-name="Setanta Qazaqstan HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta-kz.png",Setanta Qazaqstan HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/setanta_qas/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2660" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 1 HD KZ" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta1-kz.png",Setanta Sports 1 HD KZ
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08946920/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2663" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports 2 HD KZ" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta2-kz.png",Setanta Sports 2 HD KZ
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08946921/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4206" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports+ HD KZ" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta-plus-kz.png",Setanta Sports+ HD KZ
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08946922/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2658" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports HD MD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta-ua.png",Setanta Sports HD MD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Setanta_plus_MD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2658" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports UA HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta-ua.png",Setanta Sports UA HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/SETUA/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2654" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports UA+ HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta-plus-ua.png",Setanta Sports UA+ HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/SETUAPLUS/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3624" catchup="flussonic" catchup-days="3" tvg-name="Setanta Sports Premium HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/setanta-prem-ua.png",Setanta Sports Premium HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946933/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4833" catchup="flussonic" catchup-days="3" tvg-name="Спорт ТВ Беларусь" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sport-tv-by.png",Спорт ТВ Беларусь
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/18946936/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb979" catchup="flussonic" catchup-days="3" tvg-name="Беларусь 5 HD BY" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/belarus5HD.png",Беларусь 5 HD BY
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/BELARUS5/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb302" catchup="flussonic" catchup-days="3" tvg-name="Мяч HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/footbolny.png",Мяч HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/futbolniy_hd/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb58" catchup="flussonic" catchup-days="3" tvg-name="Extreme Sports" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/exstreme.png",Extreme Sports
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/Extreme_sports/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb79" catchup="flussonic" catchup-days="3" tvg-name="KHL Prime HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/kxl-hd.png",KHL Prime HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/KHL_PRIME/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb79" catchup="flussonic" catchup-days="3" tvg-name="KHL Prime HD orig" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/kxl-hd.png",KHL Prime HD orig
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/08946902/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb77" catchup="flussonic" catchup-days="3" tvg-name="KHL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/kxl.png",KHL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/KHL/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb77" catchup="flussonic" catchup-days="3" tvg-name="KHL HD orig" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/kxl.png",KHL HD orig
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/08946901/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2224" catchup="flussonic" catchup-days="3" tvg-name="NHL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/nhl.png",NHL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/NHL_RU/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3192" catchup="flussonic" catchup-days="3" tvg-name="Удар" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/ufc.png",Удар
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/UFC/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4749" catchup="flussonic" catchup-days="3" tvg-name="Prime Fight HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/prime_fight.jpg",Prime Fight HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/prime_fight/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1492" catchup="flussonic" catchup-days="3" tvg-name="FightBox HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/fightbox-hd.png",FightBox HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/fightbox_hd/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb159" catchup="flussonic" catchup-days="3" tvg-name="viju+ Viasat Sport HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/viasat-sport.png",viju+ Viasat Sport HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/VIASATSPORT/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb90" catchup="flussonic" catchup-days="3" tvg-name="MMA-TV (M-1 Global)" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/m1-global.png",MMA-TV (M-1 Global)
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/m1global/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2611" catchup="flussonic" catchup-days="3" tvg-name="Русский экстрим" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/rus-extrim.png",Русский экстрим
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/russkiiy_aekstrim/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb284" catchup="flussonic" catchup-days="3" tvg-name="Мир баскетбола" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/mir-basketbola.png",Мир баскетбола
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/psi_mir_basketbola/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb284" catchup="flussonic" catchup-days="3" tvg-name="Мир баскетбола HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/mir-basketbola.png",Мир баскетбола HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/mir_basketbola_hd/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb433" catchup="flussonic" catchup-days="3" tvg-name="Футбол HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/football-ru.png",Футбол HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/FOOTBALL_HD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb435" catchup="flussonic" catchup-days="3" tvg-name="Хоккей ТВ HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/xokkejny.png",Хоккей ТВ HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/hokeiynbIiy_HD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2867" catchup="flussonic" catchup-days="3" tvg-name="ТВ Спорт HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sportivny.png",ТВ Спорт HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/sportivnbIiy_HD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4239" catchup="flussonic" catchup-days="3" tvg-name="QSport Arena HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/qsport-kg.png",QSport Arena HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/qsport_arena/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2215" catchup="flussonic" catchup-days="3" tvg-name="NBA TV" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/nba-tv.png",NBA TV
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/nba_tv/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb135" catchup="flussonic" catchup-days="3" tvg-name="Trace Sport Stars" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/trace-sport-stars.png",Trace Sport Stars
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/TRACESPORTSSTARS/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3097" catchup="flussonic" catchup-days="3" tvg-name="Go3 Sport Open HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tv3-sport-open.png",Go3 Sport Open HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/tv3_sport_open_LT/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3155" catchup="flussonic" catchup-days="3" tvg-name="Go3 Sport 1 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/baltic/tvplay-sports.png",Go3 Sport 1 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/TV3_Sport_LT/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3156" catchup="flussonic" catchup-days="3" tvg-name="Go3 Sport 2 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/baltic/tvplay-sports-plus.png",Go3 Sport 2 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/TV3_Sport_2_LT/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3096" catchup="flussonic" catchup-days="3" tvg-name="Go3 Sport 3 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tv3-sport-3.png",Go3 Sport 3 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/08936901/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2237" catchup="flussonic" catchup-days="3" tvg-name="Go3 Sport 4 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tv3-sport-4.png",Go3 Sport 4 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/08936902/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1484" catchup="flussonic" catchup-days="3" tvg-name="Fast&FunBox" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/fastfunbox-hd.png",Fast&FunBox
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/fast_fun_box/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2224" catchup="flussonic" catchup-days="3" tvg-name="NHL Network HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/nhl.jpg",NHL Network HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/nhl/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1123" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Sport 1 PL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/canal-pl-sport.png",Canal+ Sport 1 PL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/Y2FuYWxfcGx1c19zcG9ydF8x/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1124" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Sport 2 PL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/canal-pl-sport-2.png",Canal+ Sport 2 PL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/Y2FuYWxfcGx1c19zcG9ydF8y/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1125" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Sport 3 PL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/canal-pl-sport-3.png",Canal+ Sport 3 PL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/Y2FuYWxfcGx1c19zcG9ydF8z/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1126" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Sport 4 PL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/canal-pl-sport-4.png",Canal+ Sport 4 PL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/Y2FuYWxfcGx1c19zcG9ydF80/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1127" catchup="flussonic" catchup-days="3" tvg-name="Canal+ Sport 5 PL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/canal-pl-sport-5.png",Canal+ Sport 5 PL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/18946934/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="1110" catchup="flussonic" catchup-days="3" tvg-name="Fox Sport 1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/fs1.png",Fox Sport 1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/Zm94X3Nwb3J0XzE/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="1111" catchup="flussonic" catchup-days="3" tvg-name="Fox Sport 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/fs2.png",Fox Sport 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/Zm94X3Nwb3J0XzI/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1440" catchup="flussonic" catchup-days="3" tvg-name="ESPN HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/espn.png",ESPN HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/ZXNwbl9oZF9zcG9ydA/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1443" catchup="flussonic" catchup-days="3" tvg-name="ESPN 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/espn2.png",ESPN 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/ZXNwbl8yX3Nwb3J0/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1281" catchup="flussonic" catchup-days="3" tvg-name="DAZN 1 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/daznbar1.png",DAZN 1 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/dazn_1_hd/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1282" catchup="flussonic" catchup-days="3" tvg-name="DAZN 2 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/daznbar2.png",DAZN 2 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/dazn_2_hd/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1085" catchup="flussonic" catchup-days="3" tvg-name="TNT Sports 1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tntsport1.png",TNT Sports 1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/08946942/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1087" catchup="flussonic" catchup-days="3" tvg-name="TNT Sports 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tntsport2.png",TNT Sports 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/08946943/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1088" catchup="flussonic" catchup-days="3" tvg-name="TNT Sports 3" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tntsport3.png",TNT Sports 3
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/08946945/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1089" catchup="flussonic" catchup-days="3" tvg-name="TNT Sports 4" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/tntsport4.png",TNT Sports 4
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/08946946/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2435" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/polsat-sport.png",Polsat Sport
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/cG9sc2F0X3Nwb3J0X2hk/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2437" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport Fight" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/polsat-sport-fight.png",Polsat Sport Fight
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/cG9sc2F0X3Nwb3J0X2ZpZ2h0/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2438" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport News" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/polsat-sport-news.png",Polsat Sport News
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/cG9sc2F0X3Nwb3J0X25ld3M/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2436" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport Extra" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/polsat-sport-extra.png",Polsat Sport Extra
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/cG9sc2F0X3Nwb3J0X2V4dHJh/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2439" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport Premium 1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/polsat-sport-pr1.png",Polsat Sport Premium 1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/cG9sc2F0X3Nwb3J0X3ByZW1pdW1fMQ/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2440" catchup="flussonic" catchup-days="3" tvg-name="Polsat Sport Premium 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/polsat-sport-pr2.png",Polsat Sport Premium 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/cG9sc2F0X3Nwb3J0X3ByZW1pdW1fMg/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2930" catchup="flussonic" catchup-days="3" tvg-name="SuperTennis" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/supertennis.png",SuperTennis
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/c3VwZXJ0ZW5uaXM/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1276" catchup="flussonic" catchup-days="3" tvg-name="DAZN F1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/daznf1.png",DAZN F1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/bW92aXN0YXJfZm9ybXVsYV8x/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb941" catchup="flussonic" catchup-days="3" tvg-name="BeIN Sport 1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/bein-sport-1.png",BeIN Sport 1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/YmVpbl9zcG9ydHNfMQ/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb943" catchup="flussonic" catchup-days="3" tvg-name="BeIN Sport 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/bein-sport-2.png",BeIN Sport 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/YmVpbl9zcG9ydHNfMg/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb945" catchup="flussonic" catchup-days="3" tvg-name="BeIN Sport 3" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/bein-sport-3.png",BeIN Sport 3
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/YmVpbl9zcG9ydHNfMw/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1378" catchup="flussonic" catchup-days="3" tvg-name="Eleven Sports 1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/eleven-sports-1.png",Eleven Sports 1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/ZWxldmVuX3Nwb3J0c18xX1BM/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1379" catchup="flussonic" catchup-days="3" tvg-name="Eleven Sports 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/eleven-sports-2.png",Eleven Sports 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/ZWxldmVuX3Nwb3J0c18yX1BM/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1380" catchup="flussonic" catchup-days="3" tvg-name="Eleven Sports 3" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/eleven-sports-3.png",Eleven Sports 3
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/ZWxldmVuX3Nwb3J0c18zX1BM/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1381" catchup="flussonic" catchup-days="3" tvg-name="Eleven Sports 4" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/eleven-sports-4.png",Eleven Sports 4
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/ZWxldmVuX3Nwb3J0c180X1BM/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4241" catchup="flussonic" catchup-days="3" tvg-name="Q Sport League HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/q-sport-ext.png",Q Sport League HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/qsport_qaz/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3793" catchup="flussonic" catchup-days="3" tvg-name="SPORTDIGITAL FUSSBALL (DE)" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/DE/sportdigital-fussball.png",SPORTDIGITAL FUSSBALL (DE)
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SPORTDIGITAL_DE/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb110" catchup="flussonic" catchup-days="3" tvg-name="Russian Extreme Ultra (Ultra REX)" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/uhd/russian-extreme-uhd.png",Russian Extreme Ultra (Ultra REX)
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/ultra_rex_4k/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4138" catchup="flussonic" catchup-days="3" tvg-name="Sport 1 HD IL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sport1il.png",Sport 1 HD IL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/SPORT_1_IL/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4140" catchup="flussonic" catchup-days="3" tvg-name="Sport 2 HD IL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sport2il.png",Sport 2 HD IL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/SPORT_2_IL/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4141" catchup="flussonic" catchup-days="3" tvg-name="Sport 3 IL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sport3il.png",Sport 3 IL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/SPORT_3_IL/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4142" catchup="flussonic" catchup-days="3" tvg-name="Sport 4 HD IL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sport4il.png",Sport 4 HD IL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/SPORT_4_IL/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4145" catchup="flussonic" catchup-days="3" tvg-name="Sport 5 HD IL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/5sport.png",Sport 5 HD IL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/SPORT_5_IL/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4144" catchup="flussonic" catchup-days="3" tvg-name="Sport 5 Gold IL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/5gold.png",Sport 5 Gold IL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/SPORT_5_GOLD_IL/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4146" catchup="flussonic" catchup-days="3" tvg-name="Sport 5 Live IL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/baltic/filmzone-plus.png",Sport 5 Live IL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/SPORT_5_LIVE_IL/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4124" catchup="flussonic" catchup-days="3" tvg-name="One 2 IL" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/region/one-2-il.png",One 2 IL
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08936909/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3788" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT TOP EVENT (DE)" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/DE/sky-sport-hd1.png",SKY SPORT TOP EVENT (DE)
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SKY_SPORT_1_HD_DE/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3787" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT TENNIS (DE)" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/DE/skysport2-de.png",SKY SPORT TENNIS (DE)
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SKY_SPORT_2_HD_DE/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2712" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Golf DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-golf-de.png",Sky Sport Golf DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/aa_2_5024/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3781" catchup="flussonic" catchup-days="3" tvg-name="SKY SPORT AUSTRIA (DE)" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/DE/sky-sport-aus.png",SKY SPORT AUSTRIA (DE)
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SKY_SPORT_AUSTRIA_DE/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3784" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport Mix DE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sport-mix-de.png",Sky Sport Mix DE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c19l8u2d4f9l1a3r7e19/08946937/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3782" catchup="flussonic" catchup-days="3" tvg-name="Sky Sport F1 DE HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sky-sports-f1.png",Sky Sport F1 DE HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/SKYSPORTF1/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Fint GA 1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Fint GA 1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946902/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Fint GA 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Fint GA 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946903/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Fint GA 3" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Fint GA 3
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946904/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Fint GA 4" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Fint GA 4
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946905/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946919/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946920/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 3" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 3
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946921/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 4" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 4
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946922/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 5" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 5
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946923/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Pimple TV 6" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Pimple TV 6
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946924/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946906/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946907/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 3" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 3
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946908/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 4" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 4
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946909/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 5" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 5
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946910/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 6" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 6
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946911/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 7" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 7
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946912/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 8" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 8
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946913/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 9" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 9
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946914/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 10" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 10
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946915/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 11" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 11
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946916/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 12" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 12
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946917/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 13" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 13
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946918/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 14" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 14
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946925/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 15" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 15
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946926/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 16" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 16
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946927/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Online 17" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Online 17
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946928/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Betking Live 1" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Betking Live 1
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946929/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Betking Live 2" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Betking Live 2
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946930/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2243" catchup="flussonic" catchup-days="3" tvg-name="ViP Sport Betking Live 3" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/vipsport.jpg",ViP Sport Betking Live 3
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/aa_1_5004/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2311" catchup="flussonic" catchup-days="3" tvg-name="Окко Спорт HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/okko-sport.png",Окко Спорт HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/okko_sport/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2312" catchup="flussonic" catchup-days="3" tvg-name="Окко Прайм Спорт HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/okko-sport-2-n.png",Окко Прайм Спорт HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c18l8u2d4f9l1a3r7e18/08946934/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2310" catchup="flussonic" catchup-days="3" tvg-name="Окко Футбол HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/okko-football.png",Окко Футбол HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/SETANTA_EVENT_1/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4848" catchup="flussonic" catchup-days="3" tvg-name="Окко Чемпионат HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/okko-chempionat.png",Окко Чемпионат HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/op_Nexus/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2852" catchup="flussonic" catchup-days="3" tvg-name="Sport 1 Baltic" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sport1-baltic.png",Sport 1 Baltic
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/SPORTS_1_BALTIC/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2858" catchup="flussonic" catchup-days="3" tvg-name="Sport 2 Baltic" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/sport2-baltic.png",Sport 2 Baltic
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/SPORTS_2_BALTIC/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1298" catchup="flussonic" catchup-days="3" tvg-name="Diema Sport 1 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/diema-sport.png",Diema Sport 1 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/DIEMA_SPORTS_1_HD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1299" catchup="flussonic" catchup-days="3" tvg-name="Diema Sport 2 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/diema-sport-2.png",Diema Sport 2 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/DIEMA_SPORTS_2_HD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1300" catchup="flussonic" catchup-days="3" tvg-name="Diema Sport 3 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/diema-sport-3.png",Diema Sport 3 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/DIEMA_SPORTS_3_HD/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1558" catchup="flussonic" catchup-days="3" tvg-name="Gametoon" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos//gametoon.png",Gametoon
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/aa_2_5023/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb393" catchup="flussonic" catchup-days="3" tvg-name="Старт HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/start.png",Старт HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c20l8u2d4f9l1a3r7e20/09946932/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb394" catchup="flussonic" catchup-days="3" tvg-name="Старт Триумф HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/start-triumf.png",Старт Триумф HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/08936903/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb4803" catchup="flussonic" catchup-days="3" tvg-name="Старт Баскет HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/start-basket.png",Старт Баскет HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/18946917/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb3362" catchup="flussonic" catchup-days="3" tvg-name="Старт Туран" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/startturan.png",Старт Туран
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08946966/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb425" catchup="flussonic" catchup-days="3" tvg-name="Точка отрыва" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/start.png",Точка отрыва
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/dG9jaGthX290cnl2YQ/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2934" catchup="flussonic" catchup-days="3" tvg-name="Суспильне Спорт HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/suspilne-sport-ua.png",Суспильне Спорт HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936908/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1301" catchup="flussonic" catchup-days="3" tvg-name="DIGI Sport 1 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/digisport1.png",DIGI Sport 1 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936904/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1302" catchup="flussonic" catchup-days="3" tvg-name="DIGI Sport 2 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/digisport2.png",DIGI Sport 2 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936905/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1303" catchup="flussonic" catchup-days="3" tvg-name="DIGI Sport 3 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/digisport3.png",DIGI Sport 3 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936906/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1304" catchup="flussonic" catchup-days="3" tvg-name="DIGI Sport 4 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/digisport4.png",DIGI Sport 4 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936907/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1459" catchup="flussonic" catchup-days="3" tvg-name="Eurosport 1 HD CEE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/eurosport1-cee.png",Eurosport 1 HD CEE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/eurosport_1_cee/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1461" catchup="flussonic" catchup-days="3" tvg-name="Eurosport 2 HD CEE" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/eurosport2-cee.png",Eurosport 2 HD CEE
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/eurosport_2_cee/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1459" catchup="flussonic" catchup-days="3" tvg-name="Eurosport 1 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/eurosport1.png",Eurosport 1 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/eurosport_1/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb1461" catchup="flussonic" catchup-days="3" tvg-name="Eurosport 2 HD" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos/sport/eurosport2.png",Eurosport 2 HD
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/eurosport_2/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+#EXTINF:0 tvg-id="elb2237" catchup="flussonic" catchup-days="3" tvg-name="World Poker Tour US" group-title="Спортивные" tvg-logo="http://img.velestore.su/img/logos//wpt.png",World Poker Tour US
+#EXTGRP:Спортивные
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/aa_2_5035/video.m3u8?token=QXJrYW4xMjM0fHxRWEpyWVc0eE1qTTA=
+
+
