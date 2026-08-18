@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.velestore.su/epg.xml.gz" 
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
 
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5050/index.m3u8
@@ -831,7 +831,7 @@ http://pro.jekol.cfd/play/live.php?mac=00:1A:79:00:24:C0&stream=458498&extension
 ########################
 
 
-#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+
 #EXTINF:0 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.one/img2/2044.png" tvg-rec="3",Матч! Футбол 1 FHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/2EZAKDSGZZRHAQ/2407/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="2044" tvg-logo="http://epg.one/img2/2044.png" tvg-rec="7",Матч! Футбол 1 HD
